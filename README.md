@@ -1492,39 +1492,12 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/62
 #EXTINF:0 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/cOiJwcJ.gif",[$]TEN SPORTS HD[IN]
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
 
-
 #EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.imgur.com/x7ztnOP.png",[$]DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.imgur.com/rYMFJ1I.png",[$]WORLD POKER TOUR
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 #EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.ibb.co/RCxxxgR/VS.png",[$]VIASAT SPORT HD
 http://persik.tv/stream/3602/287583/10249.m3u8 
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.imgur.com/vabi9sG.png",[$]МАТЧ! HD
-https://95-213-224-183.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.imgur.com/vabi9sG.png",[$]МАТЧ! APEHA HD 
-https://95-213-224-183.livesports24.online/rumatcharena.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.ibb.co/zH1h48z/boeu.jpg",[$]МАТЧ! BOEU HD 
-https://95-213-224-183.livesports24.online/matchboetsru.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.ibb.co/LrgBnCy/m1.png",[$]МАТЧ! ФУТБOЛ 1HD
-https://95-213-224-183.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.ibb.co/3d8f0j5/m2.png",[$]МАТЧ! ФУТБOЛ 2HD 
-https://95-213-224-183.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.imgur.com/WvrK5DG.png",[$]МАТЧ! ФУТБOЛ 3HD 
-https://95-213-224-183.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.ibb.co/xDvspzJ/O1.png",[$]ФУТБOЛ 1HD 
-https://95-213-224-183.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.ibb.co/9hM2K0P/O2.png",[$]ФУТБOЛ 2HD
-https://95-213-224-183.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.imgur.com/K5Gh81W.jpg",[$]SPORT 1HD
-https://95-213-224-183.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.ibb.co/tckdpCF/5.png",[$]5 SPORT HD 
-https://95-213-224-183.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.ibb.co/QPMXsq3/s1.jpg",[$]SETANTA SPORTS 1HD 
-https://95-213-224-183.livesports24.online/setantaukraine.m3u8
-#EXTINF:0 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.imgur.com/7tThLaK.jpg",[$]EUROSPORT 1HD 
-https://95-213-224-183.livesports24.online/eurosport1ru.m3u8
-#EXTINF:0 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.imgur.com/83HKfdS.jpg",[$]EUROSPORT 2HD
-https://95-213-224-183.livesports24.online/ruseurosport2.m3u8
 #EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.ibb.co/sKkb94b/BSP1.png",[$]BEIN SPORTS PREMIUM 1HD
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[WL]SPORTE(24/7)" tvg-logo="https://i.ibb.co/3p5pXDp/BSP2.png",[$]BEIN SPORTS PREMIUM 2HD
