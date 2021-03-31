@@ -867,7 +867,18 @@ http://srb.00387.info/c7/index.m3u8?token=test
 #EXTINF:0 group-title="[AL]POP CORN" tvg-logo="https://i.imgur.com/MYSWObs.png",[$]CINEMACIOUS 8HD
 http://srb.00387.info/c8/index.m3u8?token=test
 
-
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/Ij2qZNW.png",[$]SUPER SPORT 1HD
+http://93.157.62.180/Supersport1/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/0tTfJL9.png",[$]SUPER SPORT 2HD
+http://93.157.62.180/Supersport2/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/m03qtgP.png",[$]SUPER SPORT 3HD
+http://93.157.62.180/Supersport3/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/wxCPEjv.png",[$]SUPER SPORT 4HD
+http://93.157.62.180/Supersport4/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/R7VsTVA.png",[$]SUPER SPORT 5HD
+http://93.157.62.180/Supersport5/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/bMwbDys.png",[$]SUPER SPORT 6HD
+http://93.157.62.180/Supersport6/index.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%20News%20HD.png",[$]TRING SPORT NEWS HD (vip)
 http://130.0.24.6:2831/udp/239.101.43.64:2345
 #EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png",[$]TRING SPORT 1HD (vip)
@@ -909,27 +920,15 @@ http://live02-cdn.tv.ti.ru:80/dtv/id213_NBN_SG--ExtremeSport/03/plst.m3u8
 #EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/ZVSz8aU.png",[$]STAR SPORTS HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/Ij2qZNW.png",[$]SUPER SPORT 1HD
-http://93.157.62.180/Supersport1/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/0tTfJL9.png",[$]SUPER SPORT 2HD
-http://93.157.62.180/Supersport2/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/m03qtgP.png",[$]SUPER SPORT 3HD
-http://93.157.62.180/Supersport3/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/wxCPEjv.png",[$]SUPER SPORT 4HD
-http://93.157.62.180/Supersport4/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/R7VsTVA.png",[$]SUPER SPORT 5HD
-http://93.157.62.180/Supersport5/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/bMwbDys.png",[$]SUPER SPORT 6HD
-http://93.157.62.180/Supersport6/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png",[$]SS 1HD
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png",[$]SUPER SPORT 1HD
 http://62.210.209.100:86/live/play/mosulodhkot/235.ts|User-Agent=mosulodh
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png",[$]SS 2HD
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png",[$]SUPER SPORT 2HD
 http://62.210.209.100:86/live/play/mosulodhkot/236.ts|User-Agent=mosulodh
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png",[$]SS 3HD
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png",[$]SUPER SPORT 3HD
 http://62.210.209.100:86/live/play/mosulodhkot/237.ts|User-Agent=mosulodh
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png",[$]SS 4HD
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png",[$]SUPER SPORT 4HD
 http://62.210.209.100:86/live/play/mosulodhkot/238.ts|User-Agent=mosulodh
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png",[$]SS 5HD
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png",[$]SUPER SPORT 5HD
 http://62.210.209.100:86/live/play/mosulodhkot/239.ts|User-Agent=mosulodh
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%20News%20HD.png",[$]T SPORT NEWS HD
 http://84.22.33.254/unicast.tringsportnews/mpegts?token=tv
@@ -1825,8 +1824,6 @@ https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/
 #EXTINF:-1 group-title="[WL]SPORT PLUS" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]EPT SPORT HD
 http://137.74.92.216:8080/EPTSPORT/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/MQwIQgT.png",[$]BEIN SPORTS XTRA HD
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/GZBfo5l.png",[$]BEIN SPORTS NEWS HD
 http://xtream-ui02.feel-tv.com:25461/Callu/fdsgfshjfgjkhg/71
 #EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/fXrWkhZ.png",[$]BEIN SPORTS HD
