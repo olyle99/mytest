@@ -931,10 +931,6 @@ http://62.210.209.100:86/live/play/mosulodhkot/271.ts|User-Agent=mosulodh
 http://62.210.209.100:86/live/play/mosulodhkot/272.ts|User-Agent=mosulodh
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/7I9vkz6.png",[$]FIGHT HD
 http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/2KOyX5s.jpg",[$]EUROSPORT 1HD
-https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/7D9744z.jpg",[$]EUROSPORT 2HD
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8|User-Agent=stream
 
 #EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png",[$]SS 1HD
 http://147.78.163.247:8000/play/a02f
@@ -2704,24 +2700,6 @@ http://200.73.117.225:8000/play/a0bq
 
 #EXTINF:0 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/qc0mn5D.png",[$]BAND SPORTS HD
 http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/index.m3u8
-#EXTINF:0 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/YH3r5Yh.png",[$]ALL SPORTS HD
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/hkwaXbl.png",[$]TIGO SPORTS HD
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/2xtseDC.png",[$]TIGO SPORTS 2HD
-https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/4tN8NrY.png",[$]TIGO SPORTS 3HD
-https://d1pox267xtn5kq.cloudfront.net/out/v1/4270f13bab1547b39f44e52e867abcfa/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/6HDDXJ9.png",[$]TNT SPORTS 1HD
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/uPaW2WY.png",[$]TNT SPORTS 2HD
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/Z1ES8pK.png",[$]TNT SPORTS 3HD
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/kTxZRz8.png",[$]TNT SPORTS 4HD
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/jOwPVZw.png",[$]TNT SPORTS 5HD
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/jOwPVZw.png",[$]TUDN HD
 http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
 #EXTINF:-1 group-title="[BR]SPORTE BRAZILJANE" tvg-logo="https://i.imgur.com/qmTxkks.png",[$]ESPN XTRA HD
@@ -2772,8 +2750,6 @@ http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/28903
 #EXTINF:0 group-title="[AZ]SPORTE AFRIKANE" tvg-logo="https://i.ibb.co/93Tdbrj/sv4.png",[$]S VARIETY 4HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/28902
 
-#EXTINF:-1 group-title="[IN]SPORTE INDIANE" tvg-logo="https://i.imgur.com/nhEsufb.png",[$]PTV SPORTS HD
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[IN]SPORTE INDIANE" tvg-logo="https://i.imgur.com/tWQ1QcN.png",[$]SONY TEN 1HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/10168
 #EXTINF:0 group-title="[IN]SPORTE INDIANE" tvg-logo="https://i.imgur.com/0ajR0A6.png",[$]SONY TEN 2HD
@@ -2893,16 +2869,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
 #EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.imgur.com/JWRgtM9.png",[$]UFC HD
 http://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
-#EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.ibb.co/ZJW8N4b/U.png",[$]ESPN U 
-https://gma2.blab.email/espnu.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.ibb.co/d4j1ZR3/ESPN2.png",[$]ESPN 2HD 
-https://gma2.blab.email/espn2.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.imgur.com/1mBbJkB.png",[$]ESPN ACC 
-https://gma2.blab.email/acc.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.imgur.com/1mBbJkB.png",[$]ESPN SEC 
-https://gma2.blab.email/sec.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.imgur.com/1mBbJkB.png",[$]ESPN SOC 
-https://gma2.blab.email/fs2.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.imgur.com/zlWcUOd.png",[$]REDBULL TV 
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.ibb.co/fH0fPVt/fox.png",[$]FOX SPORT HD
@@ -5764,29 +5730,4 @@ http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Argo.2012.72
 http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/ASecondChance2015WEBRipbuhaypirata_HD.mp4/playlist.m3u8
 #EXTINF:-1 group-title="[UK]FILMA(VOD)" tvg-logo="https://i.imgur.com/PV5RrMA.png",[$]ASSASSIN
 http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Assassin.2014.HDRip.XViDjuggsETRG_HD.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Empire State 2013
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7613760_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Enigma 2001
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7190204_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Fish Tank 2009
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7169276_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Fratelli Unici 2014
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8623723_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Free States Of Jones 2016
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8177421_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Freelancers 2012
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7098041_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Frozen Ground Il Cacciatore Di Donne 2013
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7760933_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Escape Plan - Fuga Dall'inferno
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6612927_,800,1800,.mp4.csmil/master.m3u8
-#EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Gara D'amore
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7252948_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Gioiellino 2011
-https://b2ushds2-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/5324898_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Gli Equilibristi 2012
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7549031_,800,1800,.mp4.csmil/index_1_av.m3u8
-
-
 
