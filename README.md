@@ -2206,55 +2206,55 @@ http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/64
 http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/28
 
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/hgd0mc3/nje.png",[$]FILM NJE HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/46|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/46|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/3y5TD3K/dy.png",[$]FILM DY HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/47|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/47|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/nCXQX1h/aksion.png",[$]FILM AKSION HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/44|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/44|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/5TgmSQM/hits.png",[$]FILM HITS HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/51|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/51|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/2jygsnF/thriller.png",[$]FILM THRILLER
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/50|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/50|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/Jnfwf8P/drame.png",[$]FILM DRAME
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/53|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/53|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/CtTSs9L/komedi.png",[$]FILM KOMEDI
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/45|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/45|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/g9bHSXf/autor.png",[$]FILM AUTOR
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/52|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/52|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/JvQjd1G/t-hd.png",[$]T HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/49|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/49|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/vZnKS4z/stinet.png",[$]STINET HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/48|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/48|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/T1rZhb3/tdc.png",[$]TDC HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/26|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/26|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/PjsCNvQ/jolly.jpg",[$]Jolly HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/59|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/59|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/qgjN0d7/action.jpg",[$]Tring Action HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/55|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/55|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/2MTHSq9/super.jpg",[$]Tring Super HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/54|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/54|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/pZh0gxg/comedy.jpg",[$]Tring Comedy
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/56|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/56|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/Gc0pNZM/fantasy.jpg",[$]Tring Fantasy
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/105|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/105|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/pJwDqsS/life.jpg",[$]Tring Life
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/100|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/100|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/CQBMPvM/shqip.jpg",[$]Tring Shqip
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/57|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/57|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/q7wM3tJ/3.jpg",[$]Tring 3+
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/58|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/58|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/zb6kynr/kino1.png",[$]ART-KINO 1HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/60|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/60|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/k8nFzQ2/kino2.png",[$]ART-KINO 2HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/61|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/61|User-Agent=15124123123t5
 #EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.ibb.co/Y0NLL1S/kino3.png",[$]ART-KINO 3HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/62|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/62|User-Agent=15124123123t5
 #EXTINF:-1 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Film.png",[$]RTSH FILM HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/23|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/23|User-Agent=15124123123t5
 #EXTINF:-1 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Plus.png",[$]RTSH PLUS HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/25|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/25|User-Agent=15124123123t5
 #EXTINF:-1 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Shqip.png",[$]RTSH SHQIP HD
-http://93.186.192.20:25461/tapi12/UIUR7xSunC/24|User-Agent=3333
+http://93.186.192.20:25461/tapi12/UIUR7xSunC/24|User-Agent=15124123123t5
 
 #EXTINF:0 group-title="[AL]AMIKO FILM" tvg-logo="https://i.imgur.com/DVmRS4W.png",[$]TELEONE 1HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17517
