@@ -1,3 +1,9 @@
+#EXTINF:0, a2 cnn
+https://liki.gjirafa.com/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/y11g0y720/index.m3u8
+#EXTINF:0, kanal 10HD
+https://liki.gjirafa.com/live/motZvUmyIk9PCPXEf5gwAB1GmIlQTn6b/yky0y1480/index.m3u8
+#EXTINF:0, star plus HD
+https://liki.gjirafa.com/live/6rgklscjRSjkIb3cFcFiyCmOrcQ7AWeB/zt0y0y480/index.m3u8
 #EXTINF:0, PINE1
 rtmp://125.227.196.250:1935/live/PineVision1
 #EXTINF:0, PINE2
