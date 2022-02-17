@@ -1,3 +1,40 @@
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/lZRG6tG.png",[$]VIVID RED
+http://rented2.mireasa.live/cdn/premium193/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/wuM1N1e.png",[$]PORNOBOX 1HD
+http://rented2.mireasa.live/cdn/premium192/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/wuM1N1e.png",[$]PORNOBOX 2HD
+http://rented2.mireasa.live/cdn/premium194/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/2CXKgSq.png",[$]DANCING BEAR
+http://rented2.mireasa.live/cdn/premium195/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/nXLcQlc.png",[$]BRAZZERS TV EUROPE
+http://rented2.mireasa.live/cdn/premium197/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/dHXCjTk.png",[$]SKYNET XXX
+http://rented2.mireasa.live/cdn/premium198/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",[$]TABOO
+http://rented2.mireasa.live/cdn/premium200/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/xpzNqIH.png",[$]BANGBROS 1HD
+http://rented2.mireasa.live/cdn/premium201/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/xpzNqIH.png",[$]BANGBROS 2HD
+http://rented2.mireasa.live/cdn/premium208/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/xpzNqIH.png",[$]BANGBROS 3HD
+http://rented2.mireasa.live/cdn/premium209/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/jHAmbaC.png",[$]TINY-4K 1HD
+http://rented2.mireasa.live/cdn/premium205/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/jHAmbaC.png",[$]TINY-4K 2HD
+http://rented2.mireasa.live/cdn/premium206/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/uqaTpuI.png",[$]BLACKED
+http://rented2.mireasa.live/cdn/premium211/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/AzOInQs.png",[$]DREAM PORN
+http://rented2.mireasa.live/cdn/premium212/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/xrUGwU8.png",[$]BRASILERINHAS
+http://rented2.mireasa.live/cdn/premium202/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/TZIScbX.png",[$]HENTAI XXX
+http://rented2.mireasa.live/cdn/premium203/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/PaLbk45.png",[$]MIA KHALIFA
+http://rented2.mireasa.live/cdn/premium204/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/mtw5KEv.png",[$]SASHA DESADE
+http://rented2.mireasa.live/cdn/premium207/chunks.m3u8|Referer=https://widevine.licenses4.me/
+
 #EXTINF:0, a2 cnn
 https://liki.gjirafa.com/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/y11g0y720/index.m3u8
 #EXTINF:0, kanal 10HD
