@@ -223,3 +223,32 @@ rtmp://125.227.196.250:1935/live/Kchannel
 rtmp://125.227.196.250:1935/live/PandoraPlays
 #EXTINF:0, PINE PINK
 rtmp://125.227.196.250:1935/live/PandoraPink
+
+
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/uJ1b5Fx.png",[$]BEIN SPORTS 1HD
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/XPnEorx.png",[$]BEIN SPORTS 2HD
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/sAImXFz.png",[$]TRUE PREMIER 1HD 
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/l9EXxV0.png",[$]TRUE PREMIER 2HD 
+https://www.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8|User-Agent=stream
+
+
+#EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.ibb.co/Bw7GSZQ/T.png",[$]TENNIS HD
+https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.ibb.co/dGb8Cfq/GOLF.png",[$]GOLF HD
+https://smart-tv.livedoomovie.com/02_golfhd_720p/chunklist.m3u8|User-Agent=stream
+
+
+#EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.imgur.com/IUoHIly.png",[$]TRUE SPORTS HD 
+https://www.wopep.com:4431/02_2sporthd1_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.imgur.com/5V9yCCA.png",[$]TRUE SPORTS HD2 
+https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8|User-Agent=stream
+
+
+
+
+
+
+
