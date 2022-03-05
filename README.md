@@ -1,31 +1,456 @@
-#EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.imgur.com/GgUCKw0.png",[$]SS 1HD 
-http://www.knaqu.tv/live/ss1.m3u8|Referer=http://www.knaqu.tv
-#EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.imgur.com/1NcNmkl.png",[$]SS 2HD 
-http://www.knaqu.tv/live/ss2.m3u8|Referer=http://www.knaqu.tv
-#EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.imgur.com/s0LTPbK.png",[$]SS 3HD 
-http://www.knaqu.tv/live/ss3.m3u8|Referer=http://www.knaqu.tv
-#EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.imgur.com/jst8oph.png",[$]SS 4HD 
-http://www.knaqu.tv/live/ss4.m3u8|Referer=http://www.knaqu.tv
-#EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.imgur.com/VczKN1N.png",[$]SPORT 1HD 
-http://www.knaqu.tv/live/ts1.m3u8|Referer=http://www.knaqu.tv
-#EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.imgur.com/zp4VUm9.png",[$]SPORT 2HD 
-http://www.knaqu.tv/live/ts2.m3u8|Referer=http://www.knaqu.tv
+#EXTINF:0,Dark S01 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7884.mkv
+#EXTINF:0,Dark S01 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7885.mkv
+#EXTINF:0,Dark S01 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7886.mkv
+#EXTINF:0,Dark S01 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7887.mkv
+#EXTINF:0,Dark S01 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7888.mkv
+#EXTINF:0,Dark S01 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7889.mkv
+#EXTINF:0,Dark S01 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7890.mkv
+#EXTINF:0,Dark S01 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7891.mkv
+#EXTINF:0,Dark S01 E09
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7892.mkv
+#EXTINF:0,Dark S01 E10
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7893.mkv
+#EXTINF:0,Dark S02 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/19204.mkv
+#EXTINF:0,Dark S02 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/19205.mkv
+#EXTINF:0,Dark S02 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/19206.mkv
+#EXTINF:0,Dark S02 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/19207.mkv
+#EXTINF:0,Dark S02 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/19208.mkv
+#EXTINF:0,Dark S02 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/19209.mkv
+#EXTINF:0,Dark S02 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/19210.mkv
+#EXTINF:0,Dark S02 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/19211.mkv
+#EXTINF:0,Dark S03 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/26356.mkv
+#EXTINF:0,Dark S03 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/26357.mkv
+#EXTINF:0,Dark S03 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/26358.mkv
+#EXTINF:0,Dark S03 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/26359.mkv
+#EXTINF:0,Dark S03 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/26360.mkv
+#EXTINF:0,Dark S03 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/26361.mkv
+#EXTINF:0,Dark S03 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/26362.mkv
+#EXTINF:0,Dark S03 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/26363.mkv
 
-#EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="https://i.imgur.com/yt7c4gL.png",[$]VIZION PLUS (TEST)
-http://www.knaqu.tv/live/vizionplus.m3u8|Referer=http://www.knaqu.tv
-#EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="https://i.imgur.com/Q8viGGd.png",[$]Klan (TEST)
-http://www.knaqu.tv/live/tvklan.m3u8|Referer=http://www.knaqu.tv
-#EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="https://i.imgur.com/Py2azDo.png",[$]Klan Plus (TEST)
-http://www.knaqu.tv/live/klanplus.m3u8|Referer=http://www.knaqu.tv
-#EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M (TEST)
-http://www.knaqu.tv/live/alsatm.m3u8|Referer=http://www.knaqu.tv
+#EXTINF:0,El Chapo S01 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7862.mkv
+#EXTINF:0,El Chapo S01 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7863.mkv
+#EXTINF:0,El Chapo S01 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7864.mkv
+#EXTINF:0,El Chapo S01 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7865.mkv
+#EXTINF:0,El Chapo S01 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7866.mkv
+#EXTINF:0,El Chapo S01 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7867.mkv
+#EXTINF:0,El Chapo S01 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7868.mkv
+#EXTINF:0,El Chapo S01 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7869.mkv
+#EXTINF:0,El Chapo S01 E09
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7870.mkv
+#EXTINF:0,El Chapo S02 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7871.mkv
+#EXTINF:0,El Chapo S02 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7872.mkv
+#EXTINF:0,El Chapo S02 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7873.mkv
+#EXTINF:0,El Chapo S02 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7874.mkv
+#EXTINF:0,El Chapo S02 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7875.mkv
+#EXTINF:0,El Chapo S02 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7876.mkv
+#EXTINF:0,El Chapo S02 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7877.mkv
+#EXTINF:0,El Chapo S02 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7878.mkv
+#EXTINF:0,El Chapo S02 E09
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7879.mkv
+#EXTINF:0,El Chapo S02 E10
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7880.mkv
+#EXTINF:0,El Chapo S02 E11
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7881.mkv
+#EXTINF:0,El Chapo S02 E12
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7882.mkv
 
-#EXTINF:0, MATCH1
-http://mfe.cliptv.az/dash/Match_Football_1_HD_kjt.ism/playlist.mpd
-#EXTINF:0, MATCH2
-http://mfe.cliptv.az/dash/Match_Football_2_HD_k2jt.ism/playlist.mpd
-#EXTINF:0, MATCH3
-http://mfe.cliptv.az/dash/Match_Football_3_HD_k3jt.ism/playlist.mpd
+#EXTINF:0,House of Cards S01 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7614.mp4
+#EXTINF:0,House of Cards S01 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7615.mp4
+#EXTINF:0,House of Cards S01 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7616.mp4
+#EXTINF:0,House of Cards S01 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7617.mp4
+#EXTINF:0,House of Cards S01 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7618.mp4
+#EXTINF:0,House of Cards S01 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7619.mp4
+#EXTINF:0,House of Cards S01 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7620.mp4
+#EXTINF:0,House of Cards S01 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7621.mp4
+#EXTINF:0,House of Cards S01 E09
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7622.mp4
+#EXTINF:0,House of Cards S01 E10
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7623.mp4
+#EXTINF:0,House of Cards S01 E11
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7624.mp4
+#EXTINF:0,House of Cards S01 E12
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7625.mp4
+#EXTINF:0,House of Cards S01 E13
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7626.mp4
+#EXTINF:0,House of Cards S02 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7627.mkv
+#EXTINF:0,House of Cards S02 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7628.mkv
+#EXTINF:0,House of Cards S02 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7629.mkv
+#EXTINF:0,House of Cards S02 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7630.mkv
+#EXTINF:0,House of Cards S02 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7631.mkv
+#EXTINF:0,House of Cards S02 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7632.mkv
+#EXTINF:0,House of Cards S02 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7633.mkv
+#EXTINF:0,House of Cards S02 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7634.mkv
+#EXTINF:0,House of Cards S02 E09
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7635.mkv
+#EXTINF:0,House of Cards S02 E10
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7636.mkv
+#EXTINF:0,House of Cards S02 E11
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7637.mkv
+#EXTINF:0,House of Cards S02 E12
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7638.mkv
+#EXTINF:0,House of Cards S02 E13
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7639.mkv
+#EXTINF:0,House of Cards S03 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7724.mkv
+#EXTINF:0,House of Cards S03 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7725.mkv
+#EXTINF:0,House of Cards S03 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7726.mkv
+#EXTINF:0,House of Cards S03 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7727.mkv
+#EXTINF:0,House of Cards S03 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7728.mkv
+#EXTINF:0,House of Cards S03 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7729.mkv
+#EXTINF:0,House of Cards S03 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7730.mkv
+#EXTINF:0,House of Cards S03 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7731.mkv
+#EXTINF:0,House of Cards S03 E09
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7732.mkv
+#EXTINF:0,House of Cards S03 E10
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7733.mkv
+#EXTINF:0,House of Cards S03 E11
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7734.mkv
+#EXTINF:0,House of Cards S03 E12
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7735.mkv
+#EXTINF:0,House of Cards S03 E13
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7736.mkv
+#EXTINF:0,House of Cards S04 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7665.mkv
+#EXTINF:0,House of Cards S04 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7653.mp4
+#EXTINF:0,House of Cards S04 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7654.mp4
+#EXTINF:0,House of Cards S04 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7655.mp4
+#EXTINF:0,House of Cards S04 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7656.mp4
+#EXTINF:0,House of Cards S04 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7657.mp4
+#EXTINF:0,House of Cards S04 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7658.mp4
+#EXTINF:0,House of Cards S04 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7659.mp4
+#EXTINF:0,House of Cards S04 E09
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7660.mp4
+#EXTINF:0,House of Cards S04 E10
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7661.mp4
+#EXTINF:0,House of Cards S04 E11
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7662.mp4
+#EXTINF:0,House of Cards S04 E12
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7663.mp4
+#EXTINF:0,House of Cards S04 E13
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7664.mp4
+#EXTINF:0,House of Cards S05 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7666.mkv
+#EXTINF:0,House of Cards S05 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7667.mkv
+#EXTINF:0,House of Cards S05 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7668.mkv
+#EXTINF:0,House of Cards S05 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7669.mkv
+#EXTINF:0,House of Cards S05 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7670.mkv
+#EXTINF:0,House of Cards S05 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7671.mkv
+#EXTINF:0,House of Cards S05 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7672.mkv
+#EXTINF:0,House of Cards S05 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7673.mkv
+#EXTINF:0,House of Cards S05 E09
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7674.mkv
+#EXTINF:0,House of Cards S05 E10
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7675.mkv
+#EXTINF:0,House of Cards S05 E11
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7676.mkv
+#EXTINF:0,House of Cards S05 E12
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7677.mkv
+#EXTINF:0,House of Cards S05 E13
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/7678.mkv
+#EXTINF:0,House of Cards S06 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/13458.mkv
+#EXTINF:0,House of Cards S06 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/13459.mkv
+#EXTINF:0,House of Cards S06 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/13460.mkv
+#EXTINF:0,House of Cards S06 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/13461.mkv
+#EXTINF:0,House of Cards S06 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/13462.mkv
+#EXTINF:0,House of Cards S06 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/13463.mkv
+#EXTINF:0,House of Cards S06 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/13464.mkv
+#EXTINF:0,House of Cards S06 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/13465.mkv
+
+#EXTINF:0,Narcos S01 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6836.mkv
+#EXTINF:0,Narcos S01 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6837.mkv
+#EXTINF:0,Narcos S01 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6838.mkv
+#EXTINF:0,Narcos S01 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6839.mkv
+#EXTINF:0,Narcos S01 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6840.mkv
+#EXTINF:0,Narcos S01 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6841.mkv
+#EXTINF:0,Narcos S01 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6842.mkv
+#EXTINF:0,Narcos S01 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6843.mkv
+#EXTINF:0,Narcos S01 E09
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6844.mkv
+#EXTINF:0,Narcos S01 E10
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6845.mkv
+#EXTINF:0,Narcos S02 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6846.mkv
+#EXTINF:0,Narcos S02 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6847.mkv
+#EXTINF:0,Narcos S02 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6848.mkv
+#EXTINF:0,Narcos S02 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6849.mkv
+#EXTINF:0,Narcos S02 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6850.mkv
+#EXTINF:0,Narcos S02 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6851.mkv
+#EXTINF:0,Narcos S02 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6852.mkv
+#EXTINF:0,Narcos S02 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6853.mkv
+#EXTINF:0,Narcos S02 E09
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6854.mkv
+#EXTINF:0,Narcos S02 E10
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6855.mkv
+#EXTINF:0,Narcos S03 E01
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6856.mkv
+#EXTINF:0,Narcos S03 E02
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6857.mkv
+#EXTINF:0,Narcos S03 E03
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6858.mkv
+#EXTINF:0,Narcos S03 E04
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6859.mkv
+#EXTINF:0,Narcos S03 E05
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6860.mkv
+#EXTINF:0,Narcos S03 E06
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6861.mkv
+#EXTINF:0,Narcos S03 E07
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6862.mkv
+#EXTINF:0,Narcos S03 E08
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6863.mkv
+#EXTINF:0,Narcos S03 E09
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6864.mkv
+#EXTINF:0,Narcos S03 E10
+#EXTVLCOPT:network-caching=1000
+http://heliostv.ddns.net:80/series/9ESUdOYO9Y/bugSyNm4q4/6865.mkv
 
 #EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/lZRG6tG.png",[$]VIVID RED
 http://rented2.mireasa.live/cdn/premium193/chunks.m3u8|Referer=https://widevine.licenses4.me/ 
