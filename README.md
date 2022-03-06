@@ -1,5 +1,8 @@
 
 #EXTM3U
+
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+
 #EXTINF:-1,Nat Geo HD
 http://182.50.65.213:8888/udp/239.239.0.1:3001
 #EXTINF:-1,Star Bharat HD
