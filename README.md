@@ -1,7 +1,8 @@
 
-#EXTM3U
-
-http://62.210.170.186:8080/live/ExoTv/Lluksomreza.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+#EXTINF:0, TV1
+http://init.cheches.info/hls/109.m3u8
+#EXTINF:0, TV2
+http://init.cheches.info/hls/108.m3u8
 
 #EXTINF:-1,Nat Geo HD
 http://182.50.65.213:8888/udp/239.239.0.1:3001
