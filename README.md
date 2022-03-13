@@ -1,8 +1,27 @@
 
 #EXTINF:0, TV1
-http://init.cheches.info/hls/109.m3u8
+http://init.cheches.info/hls/109.m3u8|User-Agent=stream
 #EXTINF:0, TV2
-http://init.cheches.info/hls/108.m3u8
+http://init.cheches.info/hls/108.m3u8|User-Agent=stream
+#EXTINF:0, TV3
+http://init.cheches.info/hls/110.m3u8|User-Agent=stream
+#EXTINF:0, TV4
+http://init.cheches.info/hls/107.m3u8|User-Agent=stream
+#EXTINF:0, TV5
+http://init.cheches.info/hls/106.m3u8|User-Agent=stream
+#EXTINF:0, TV6
+http://init.cheches.info/hls/105.m3u8|User-Agent=stream
+#EXTINF:0, TV7
+http://init.cheches.info/hls/104.m3u8|User-Agent=stream
+#EXTINF:0, TV8
+http://init.cheches.info/hls/103.m3u8|User-Agent=stream
+#EXTINF:0, TV9
+http://init.cheches.info/hls/102.m3u8|User-Agent=stream
+#EXTINF:0, TV10
+http://init.cheches.info/hls/101.m3u8|User-Agent=stream
+#EXTINF:0, TV11
+http://init.cheches.info/hls/100.m3u8|User-Agent=stream
+
 
 #EXTINF:-1,Nat Geo HD
 http://182.50.65.213:8888/udp/239.239.0.1:3001
