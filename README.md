@@ -1,3 +1,21 @@
+#EXTINF:0, TEN1
+http://103.166.253.222/hls/sonyten1.m3u8?shareext.ts
+#EXTINF:0, TEN2
+http://103.166.253.222/hls/sonyten2.m3u8?shareext.ts
+#EXTINF:0, TEN3
+http://103.166.253.222/hls/sonyten3.m3u8?shareext.ts
+#EXTINF:0, SIX
+http://103.166.253.222/hls/sonysix.m3u8?shareext.ts
+#EXTINF:0, STAR1
+http://live.flixhub.net/hls/stersports1hd.m3u8?shareext.ts
+#EXTINF:0, STAR2
+http://live.flixhub.net/hls/starsports2.m3u8?shareext.ts
+#EXTINF:0, STAR
+http://iptv.tvfix.org/hls/starsports.m3u8?shareext.ts
+
+
+
+
 
 #EXTINF:0, TV1
 http://init.cheches.info/hls/109.m3u8|User-Agent=ExoPlayer Lib/2.6
