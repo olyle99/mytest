@@ -1,3 +1,130 @@
+#EXTINF:0,Bg Music Channel HD
+http://93.155.247.249/m3u8/bgmusicchannelhd.m3u8
+#EXTINF:0,BOX HD
+http://93.155.247.249/m3u8/boxhd.m3u8
+#EXTINF:0,BNT World HD
+http://93.155.247.249/m3u8/bntworldhd.m3u8
+#EXTINF:0,BNT 2 HD
+http://93.155.247.249/m3u8/bnt2hd.m3u8
+#EXTINF:0,Diema Sport HD
+http://93.155.247.249/m3u8/diamasporthd.m3u8
+#EXTINF:0,Diema Sport 2 HD
+http://93.155.247.249/m3u8/diemasport2hd.m3u8
+#EXTINF:0,Diema Sport 3 HD
+http://93.155.247.249/m3u8/diemasport3hd.m3u8
+#EXTINF:0,bTV HD
+http://93.155.247.249/m3u8/btvhd.m3u8
+#EXTINF:0,bTV Action HD
+http://93.155.247.249/m3u8/btvactionhd.m3u8
+#EXTINF:0,Planeta HD
+http://93.155.247.249/m3u8/planetahd.m3u8
+#EXTINF:0,Eurosport HD
+http://93.155.247.249/m3u8/eurosporthd.m3u8
+#EXTINF:0,Nat Geo HD
+http://93.155.247.249/m3u8/natgeohd.m3u8
+#EXTINF:0,Nat Geo Wild HD
+http://93.155.247.249/m3u8/natgeowildhd.m3u8
+#EXTINF:0,Balkanika HD
+http://93.155.247.249/m3u8/balkanikahd.m3u8
+#EXTINF:0,Ring BG HD
+http://93.155.247.249/m3u8/ringbghd.m3u8
+#EXTINF:0,FOX HD
+http://93.155.247.249/m3u8/foxhd.m3u8
+#EXTINF:0,FOX life HD
+http://93.155.247.249/m3u8/foxlivehd.m3u8
+#EXTINF:0,TV1 HD
+http://93.155.247.249/m3u8/tv1hd.m3u8
+#EXTINF:0,Nat Geo HD
+http://93.155.247.249/m3u8/natgeohd.m3u8
+#EXTINF:0,Nat Geo Wild HD
+http://93.155.247.249/m3u8/natgeowildhd.m3u8
+#EXTINF:0,travel HD
+http://93.155.247.249/m3u8/travelhd.m3u8
+#EXTINF:-1,B1B Action
+http://93.155.247.249/m3u8/B1B_Actionhd.m3u8
+#EXTINF:-1,Deluxe Lounge
+http://93.155.247.249/m3u8/Deluxe_Loungehd.m3u8
+#EXTINF:-1,Deluxe Music HD
+http://93.155.247.249/m3u8/Deluxe_Musichd.m3u8
+#EXTINF:-1,Arena Sport 1
+http://93.155.247.249/m3u8/arenasport1.m3u8
+#EXTINF:-1,Arena Sport 2
+http://93.155.247.249/m3u8/arenasport2.m3u8
+#EXTINF:-1,Arena Sport 3
+http://93.155.247.249/m3u8/arenasport3.m3u8
+#EXTINF:-1,Arena Sport 4
+http://93.155.247.249/m3u8/arenasport4.m3u8
+#EXTINF:-1,Arena Sport 5
+http://93.155.247.249/m3u8/arenasport5.m3u8
+#EXTINF:-1,The Fight Network HD
+http://93.155.247.249/m3u8/The_Fight_Networkhd.m3u8
+#EXTINF:-1,arte HD
+http://93.155.247.249/m3u8/artehd.m3u8
+#EXTINF:-1,Bloomberg BG HD
+http://93.155.247.249/m3u8/blumberg_bulgariahd.m3u8
+#EXTINF:-1,BNT SD
+http://93.155.247.249/m3u8/bntsd.m3u8
+#EXTINF:-1,24 Horas
+http://93.155.247.249/m3u8/canal24horas.m3u8
+#EXTINF:-1,Porn
+http://93.155.247.249/m3u8/centoxcento.m3u8
+#EXTINF:-1,Das erte HD
+http://93.155.247.249/m3u8/daserstehd.m3u8
+#EXTINF:-1,Eurochannel HD
+http://93.155.247.249/m3u8/eurochannelhd.m3u8
+#EXTINF:-1,Fashion HD
+http://93.155.247.249/m3u8/fashion_tvhd.m3u8
+#EXTINF:-1,Porn
+http://93.155.247.249/m3u8/exoticatvhd.m3u8
+#EXTINF:-1,TelePace HD
+http://93.155.247.249/m3u8/webbgmusic_web.m3u8
+#EXTINF:-1,BiT HD
+http://93.155.247.249/m3u8/hdbithd.m3u8
+#EXTINF:-1,Bloomberg
+http://93.155.247.249/m3u8/hdbloomberg.m3u8
+#EXTINF:-1,BNT 1 HD
+http://93.155.247.249/m3u8/hdbnt1hd.m3u8
+#EXTINF:-1,BNT HD
+http://93.155.247.249/m3u8/hdbnthd.m3u8
+#EXTINF:0,BNT
+http://93.155.247.249/m3u8/webbnt1_web.m3u8
+#EXTINF:0,BNT 2
+http://93.155.247.249/m3u8/webbnt2_web.m3u8
+#EXTINF:0,BNT HD
+http://93.155.247.249/m3u8/webbnthd_web.m3u8
+#EXTINF:0,bTV
+http://93.155.247.249/m3u8/webbtv_web.m3u8
+#EXTINF:0,bTV Action
+http://93.155.247.249/m3u8/webbtvaction_web.m3u8
+#EXTINF:0,bTV Cinema
+http://93.155.247.249/m3u8/webbtvcinema_web.m3u8
+#EXTINF:0,bTV Comedy
+http://93.155.247.249/m3u8/webbtvcomedy_web.m3u8
+#EXTINF:0,bTV Lady
+http://93.155.247.249/m3u8/webbtvlady_web.m3u8
+#EXTINF:0,Sport+
+http://93.155.247.249/m3u8/websportplus_web.m3u8
+#EXTINF:0,Diema Sport
+http://93.155.247.249/m3u8/webdiemasport_web.m3u8
+#EXTINF:0,Diema Sport 2
+http://93.155.247.249/m3u8/webdiemasport2_web.m3u8
+#EXTINF:0,Mtelsport 1
+http://93.155.247.249/m3u8/webmtelsport_web.m3u8
+#EXTINF:0,Eurosport
+http://93.155.247.249/m3u8/webeurosport_web.m3u8
+#EXTINF:0,Eurosport 2
+http://93.155.247.249/m3u8/webeurosport2_web.m3u8
+#EXTINF:0,Nova Sport
+http://93.155.247.249/m3u8/webnovasport_web.m3u8
+#EXTINF:0,Kino Nova
+http://93.155.247.249/m3u8/webkinonova_web.m3u8
+#EXTINF:0,Ring
+http://93.155.247.249/m3u8/webringbg_web.m3u8
+#EXTINF:0,Diema
+http://93.155.247.249/m3u8/webdiema_web.m3u8
+
+
+
 #EXTINF:0, TOP
 http://51.15.25.9:25461/live/test/FNFupN2cRg/4.ts?stalker_key=RnRmdEcxV0hUeE1zajhQSlMwOGFTZ090QUNWZC9HeW82MnN2NnY0WXRlNkx5QWROVy9mTWZsbmwxSEN1dWt6YjdMcURibXM1Z2o0REN5UXdKeGZwNUJVNFdUeGUzMjl2TWQ2NXN6SitPUTUzeDlJTlVVVXd2UjA0SHpsdnc5VmZ4MU9LWFc2T3lQbUhWeWhOT0xWQ0ZTU0I5UHVWek1Eem5yUVVHRkFRWTdrPXxld0Uzc0hZSTRhblNpZURjUW5FeTNuN1h1M05xYXZMNms3YXhFVkQyNXRJPQ== 
 
