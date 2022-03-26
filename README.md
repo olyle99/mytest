@@ -1,3 +1,31 @@
+#EXTINF:0 group-title="[🇦🇱]KANALE ",alb
+http://alb.20/index.m3u8
+
+#EXTINF:0 group-title="[🇪🇺]KANALE ",eu
+http://alb.20/index1.m3u8
+
+#EXTINF:0 group-title="[🇮🇹]KANALE ",it
+http://alb.20/index2.m3u8
+
+#EXTINF:0 group-title="[🔞]KANALE ",+18
+http://alb.20/index3.m3u8
+
+#EXTINF:0 group-title="[🇮🇩]KANALE ",pol
+http://alb.20/index4.m3u8
+
+#EXTINF:0 group-title="[🇨🇿]KANALE ",czech
+http://alb.20/index5.m3u8
+
+#EXTINF:0 group-title="[⚽]KANALE ",sport
+http://alb.20/index6.m3u8
+
+#EXTINF:0 group-title="[🗺️]KANALE ",bota
+http://alb.20/index7.m3u8
+
+#EXTINF:0 group-title="[🎦]KANALE ",kinema
+http://alb.20/index.m3u8
+
+
 #EXTINF:0,Bg Music Channel HD
 http://93.155.247.249/m3u8/bgmusicchannelhd.m3u8
 #EXTINF:0,BOX HD
