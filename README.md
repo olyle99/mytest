@@ -22,7 +22,7 @@ http://alb.20/index6.m3u8
 #EXTINF:0 group-title="[🗺️]KANALE ",bota
 http://alb.20/index7.m3u8
 
-#EXTINF:0 group-title="[🎦]KANALE ",kinema
+#EXTINF:0 group-title="[🇽🇰]",kinema
 http://alb.20/index.m3u8
 
 
