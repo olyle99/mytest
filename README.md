@@ -1,32 +1,95 @@
-#EXTINF:0 group-title="[🇦🇱]KANALE ",alb
-http://alb.20/index.m3u8
-
-#EXTINF:0 group-title="[🇪🇺]KANALE ",eu
-http://alb.20/index1.m3u8
-
-#EXTINF:0 group-title="[🇮🇹]KANALE ",it
-http://alb.20/index2.m3u8
-
-#EXTINF:0 group-title="[🔞]KANALE ",+18
-http://alb.20/index3.m3u8
-
-#EXTINF:0 group-title="[🇮🇩]KANALE ",pol
-http://alb.20/index4.m3u8
-
-#EXTINF:0 group-title="[🇨🇿]KANALE ",czech
-http://alb.20/index5.m3u8
-
-#EXTINF:0 group-title="[⚽]KANALE ",sport
-http://alb.20/index6.m3u8
-
-#EXTINF:0 group-title="[🗺️]KANALE ",bota
-http://alb.20/index7.m3u8
-
-#EXTINF:0 group-title="[🇽🇰]",kinema
-http://alb.20/index.m3u8
-
-
-⚠️ kujdes
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://bit.ly/albaniaflag",========>>WELCOME<<========
+https://bit.ly/albaniaflag?ool
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL FHD
+http://199.127.60.117:8081/live/top/playlist.m3u8?
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL HD
+#EXTVLCOPT:http-user-agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/51.ts
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL 
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47075?
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/zraawM2.png",[$]VIZION PLUS FHD
+http://199.127.60.117:8081/live/vizionplus/playlist.m3u8?
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/zraawM2.png",[$]VIZION PLUS HD
+#EXTVLCOPT:http-user-agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/232.ts
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/zraawM2.png",[$]VIZION PLUS
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1274?
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/Q8viGGd.png",[$]KLAN FHD
+http://199.127.60.117:8081/live/klan/playlist.m3u8?
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/Q8viGGd.png",[$]KLAN HD
+#EXTVLCOPT:http-user-agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/45.ts
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/Q8viGGd.png",[$]KLAN 
+http://199.127.60.117:8081/live/klan/playlist.m3u8?
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/Py2azDo.png",[$]KLAN PLUS FHD
+http://199.127.60.117:8081/live/klanplus/playlist.m3u8?
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/Py2azDo.png",[$]KLAN PLUS HD
+#EXTVLCOPT:http-user-agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/46.ts
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/Py2azDo.png",[$]KLAN PLUS
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47127?
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/lQrBDzI.png",[$]KLAN MACEDONIA HD
+http://199.127.60.117:8081/live/klanmk/playlist.m3u8?
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/lQrBDzI.png",[$]KLAN MACEDONIA
+http://178.63.67.20/tv/TVART.m3u8
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/K4kFtGF.png",[$]KLAN KOSOVA HD
+http://199.127.60.117:8081/live/klanks/playlist.m3u8?
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/K4kFtGF.png",[$]KLAN KOSOVA 
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47128?
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M HD
+http://199.127.60.117:8081/live/alsat/playlist.m3u8?
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M 
+http://62.162.79.7:8003/play/s17
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/KGuUBZR.png",[$]MACEDONIA-TV 2HD
+http://62.162.79.7:8005/play/s27
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/KGuUBZR.png",[$]MACEDONIA-TV 2
+http://178.63.67.20/tv/MRT2.m3u8
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/UEYLchp.png",[$]TV ERA
+http://178.63.67.20/tv/TVERA.m3u8
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/Koha%20TV.png",[$]TV KOHA
+http://178.63.67.20/tv/TVKOHA.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/sL2pFjC.png",[$]KTV HD
+http://194.5.235.161:8000/play/a02w/index.m3u8?
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/sL2pFjC.png",[$]KTV
+http://194.15.225.98:8000/play/a004
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/EpaGUeU.png",[$]RTSH 1HD
+http://185.204.32.4:9981/stream/channelid/1606000651|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/q9gq1vh.png",[$]RTSH 2HD
+http://185.204.32.4:9981/stream/channelid/845796780|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/x5jUmXf.png",[$]RTSH 3HD
+http://185.204.32.4:9981/stream/channelid/1718846587|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/YMM0Et3.png",[$]RTSH SPORT HD
+http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/m6uiPO7.png",[$]RTSH 24HD
+http://185.204.32.4:9981/stream/channelid/868261949|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/jybuaeE.png",[$]RTSH SHQIP HD
+http://185.204.32.4:9981/stream/channelid/847076243|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/tOeoh4o.png",[$]RTSH FILM HD
+http://185.204.32.4:9981/stream/channelid/1699140733|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/3tnCEsE.png",[$]RTSH FEMIJE HD
+http://185.204.32.4:9981/stream/channelid/81074854|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/bQSwOgf.png",[$]RTSH AGRO HD
+http://185.204.32.4:9981/stream/channelid/944434146|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/7tD752v.png",[$]RTSH SHKODRA HD
+http://185.204.32.4:9981/stream/channelid/378267982|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/QG5myxr.png",[$]RTSH PLUS HD
+http://185.204.32.4:9981/stream/channelid/914839179|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/t5EtA23.png",[$]RTSH MUZIKË HD
+http://185.204.32.4:9981/stream/channelid/1799910036|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/Sax1DiE.png",[$]RTSH KUVEND HD
+http://185.204.32.4:9981/stream/channelid/611573695|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/68glg3e.png",[$]RTK 1HD
+http://84.22.33.254/unicast.rtk1/video.m3u8?token=tv
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/nVMoS8b.png",[$]RTK 2HD
+http://84.22.33.254/unicast.rtk2/video.m3u8?token=tv
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/nWL8VRE.png",[$]RTK 3HD
+http://84.22.33.254/unicast.rtk3/video.m3u8?token=tv
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/ZHabQNy.png",[$]RTK 4HD
+http://84.22.33.254/unicast.rtk4/video.m3u8?token=tv
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/ZJPNv24.png",[$]ORA HD
+https://live1.mediadesk.al/oratv.php|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/QNKBs1l.png",[$]MCN-TV 
+http://edge01eu.ekranet.com/mcntv_234p/index.m3u8|User-Agent=stream
 
 
 
