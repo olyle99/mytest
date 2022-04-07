@@ -1,3 +1,272 @@
+HUSTLER TV
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_HUSTLER_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+REALITY KINGS
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_REALITYKINGS_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+PLAYBOY TV
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_PLAYBOYTV_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+DUSK TV
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_DUSKTV_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+DORCEL TV
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_DORCEL_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+AXN
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_AXN_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+AXN SPIN
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_AXNSPIN_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+FOX CRIME
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_FOXCRIME_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+CINESTAR TV 1 SLO
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_CINESTARTV_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+CINESTAR TV COMEDY SLO
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_CINESTARFAMILY_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+FOX MOVIES HD SLO
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_FOXMOVIES_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+FOX HD SLO
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_FOX_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+FOX LIFE HD SLO
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_FOXLIFE_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+TV 1000 SLO
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_TV1000_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+AXN SLO
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_AXN_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+AXN SPIN SLO
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_AXNSPIN_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+TV 1000 SLO
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_TV1000_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+
+
+https://paste.in/raw/RRXmRO
+#EXTINF:-1,HBO 1
+http://213.186.23.21:8000/HBO%201?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,HBO 2
+http://213.186.23.21:8000/HBO%202?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,HBO 3
+http://213.186.23.21:8000/HBO%203?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cinemx 1
+http://213.186.23.21:8000/Cinemax%201?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cinemax 2
+http://213.186.23.21:8000/Cinemax%202?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cinestar Tv
+http://213.186.23.21:8000/Cinestar%20Tv?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cinestar Action
+http://213.186.23.21:8000/Cinestar%20Action?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cinestar Fantasy
+http://213.186.23.21:8000/Cinestar%20Fantasy?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cinestar Premiere 1
+http://213.186.23.21:8000/Cinestar%20Premiere%201?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cinestar Premiere 2
+http://213.186.23.21:8000/Cinestar%20Premiere%202?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Tv 1000
+http://213.186.23.21:8000/Tv%201000?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Fox Movies
+http://213.186.23.21:8000/Fox%20Movies?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Pink Action
+http://213.186.23.21:8000/Pink%20Action?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Pink Comedy
+http://213.186.23.21:8000/Pink%20Comedy?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Pink Crime i Mistery
+http://213.186.23.21:8000/Pink%20Crime%20i%20Mistery?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Pink Film
+http://213.186.23.21:8000/Pink%20Film?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Pink Horor
+http://213.186.23.21:8000/Pink%20Horor?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Pink Movies
+http://213.186.23.21:8000/Pink%20Movies?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Pink Premium
+http://213.186.23.21:8000/Pink%20Premium?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Pink Scy-Fi i Fantasy
+http://213.186.23.21:8000/Pink%20Sci-Fi%20i%20Fantasy?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Pink Thriller
+http://213.186.23.21:8000/Pink%20Thriller?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Pink Western
+http://213.186.23.21:8000/Pink%20Western?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Pink Classic
+http://213.186.23.21:8000/Pink%20Classic?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Axn
+http://213.186.23.21:8000/Axn?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Axn Spin
+http://213.186.23.21:8000/Axn%20Spin?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Fox
+http://213.186.23.21:8000/Fox?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Fox Life
+http://213.186.23.21:8000/Fox%20Life?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Fox Crime
+http://213.186.23.21:8000/Fox%20Crime?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cinemacious 1
+http://213.186.23.21:8000/Special%201?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cinemacious 2
+http://213.186.23.21:8000/Special%202?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cinemacious 3
+http://213.186.23.21:8000/Special%203?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cinemacious 4
+http://213.186.23.21:8000/Special%204?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cinemacious 5
+http://213.186.23.21:8000/Special%205?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,TDC
+http://213.186.23.21:8000/Zdrava%20Tv?u=00:1A:79:2A:E9:66:p=001A792AE966
+
+#EXTINF:-1,SportKlub
+http://213.186.23.21:8000/SportKlub?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SportKlub 1
+http://213.186.23.21:8000/SportKlub%201%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SportKlub 2
+http://213.186.23.21:8000/SportKlub%202?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SportKlub 3
+http://213.186.23.21:8000/SportKlub%203?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SportKlub 4
+http://213.186.23.21:8000/SportKlub%204?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SportKlub 5
+http://213.186.23.21:8000/SportKlub%205?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SportKlub 6
+http://213.186.23.21:8000/SportKlub%206?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SportKlub 7
+http://213.186.23.21:8000/SportKlub%207?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SportKlub 8
+http://213.186.23.21:8000/SportKlub%208?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SportKlub 9
+http://213.186.23.21:8000/SportKlub%209?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SportKlub 10
+http://213.186.23.21:8000/SportKlub%2010?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena 1 HR
+http://213.186.23.21:8000/Arena%201%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena 2 HR
+http://213.186.23.21:8000/Arena%202%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena 3 HR
+http://213.186.23.21:8000/Arena%203%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena 4 HR
+http://213.186.23.21:8000/Arena%204%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena 5 HR
+http://213.186.23.21:8000/Arena%205%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena 1 SR
+http://213.186.23.21:8000/Arena%201%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena 2 SR
+http://213.186.23.21:8000/Arena%202%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena 3 SR
+http://213.186.23.21:8000/Arena%203%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena 4 SR
+http://213.186.23.21:8000/Arena%204%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena 5 SR
+http://213.186.23.21:8000/Arena%205%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Planet Sport 1
+http://213.186.23.21:8000/BeinSport%201?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Planet Sport 2
+http://213.186.23.21:8000/BeinSport%202?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Planet Sport 3
+http://213.186.23.21:8000/BeinSport%203?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Nova Sport
+http://213.186.23.21:8000/BeinSport%204?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Dazn 1
+http://213.186.23.21:8000/BeinSport%205?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Dazn
+http://213.186.23.21:8000/BeinSport%206?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,EuroSport 1
+http://213.186.23.21:8000/EuroSport%201?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,EuroSport 2
+http://213.186.23.21:8000/EuroSport%202?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Special
+http://213.186.23.21:8000/Special%207?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,EuroSportDVA
+http://213.186.23.21:8000/EuroSportDVA?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Fightbox
+http://213.186.23.21:8000/Fightbox?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SK HD
+http://213.186.23.21:8000/SportKlub%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SK 1 HD
+http://213.186.23.21:8000/SportKlub%201%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SK 1 HR
+http://213.186.23.21:8000/SportKlub%201%20HR%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SK 2
+http://213.186.23.21:8000/SportKlub%202%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,SK 3
+http://213.186.23.21:8000/SportKlub%203%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena Sport 1 HR
+http://213.186.23.21:8000/Arena%201%20HR%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena Sport 2 HR
+http://213.186.23.21:8000/Arena%202%20HR%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena Sport 3 HR
+http://213.186.23.21:8000/Arena%203%20HR%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena Sport 4 HR
+http://213.186.23.21:8000/Arena%204%20HR%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Arena Sport 5 HR
+http://213.186.23.21:8000/Arena%205%20HR%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
+
+#EXTINF:-1,IDJ Tv
+http://213.186.23.21:8000/DM%20Sat%20HD?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,DM Sat
+http://213.186.23.21:8000/DM%20Sat?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Grand Tv
+http://213.186.23.21:8000/Grand%20Tv?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Grand Tv 2
+http://213.186.23.21:8000/Grand%20Tv%202?u=00:1A:79:2A:E9:66:p=001A792AE966
+
+#EXTINF:-1,Boomerang
+http://213.186.23.21:8000/Boomerang?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Cartoon Network
+http://213.186.23.21:8000/Cartoon%20Network?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Vavoom
+http://213.186.23.21:8000/OK%20Bambino?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Nickeleodon
+http://213.186.23.21:8000/Nickelodeon?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Baby Tv
+http://213.186.23.21:8000/Baby%20Tv?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Duck Tv
+http://213.186.23.21:8000/Duck%20Tv?u=00:1A:79:2A:E9:66:p=001A792AE966
+
+#EXTINF:-1,------------ XXX ------------
+#EXTINF:-1,Rusnoch
+http://213.186.23.21:8000/XXX?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Vixen
+http://213.186.23.21:8000/XXX%201?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Bang
+http://213.186.23.21:8000/XXX%202?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,P.gold
+http://213.186.23.21:8000/XXX%203?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Redlight
+http://213.186.23.21:8000/XXX%204?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Bang
+http://213.186.23.21:8000/XXX%205?u=00:1A:79:2A:E9:66:p=001A792AE966
+#EXTINF:-1,Babes
+http://213.186.23.21:8000/XXX%206?u=00:1A:79:2A:E9:66:p=001A792AE966
+------------------------------
+
+#EXTINF:0,CINESTAR FANTASY
+http://109.105.205.250:8081/live/CINESTARFANTASY/playlist.m3u8
+#EXTINF:0,CINESTAR ACTION
+http://109.105.205.250:8081/live/CINESTARACTION/playlist.m3u8
+#EXTINF:0,CINESTAR TV
+http://109.105.205.250:8081/live/CINESTARTV/playlist.m3u8
+
+
+#EXTINF:0,VIASAT EXPLORE
+http://109.105.205.250:8081/live/VIASATEXPLORE/playlist.m3u8
+#EXTINF:0,VIASAT NATURE
+http://109.105.205.250:8081/live/VIASATNATURE/playlist.m3u8
+#EXTINF:0,VIASAT HISTORY
+http://109.105.205.250:8081/live/VIASATHISTORY/playlist.m3u8
+#EXTINF:0,HSTORY
+http://109.105.205.250:8081/live/HSTORY/playlist.m3u8
+#EXTINF:0,HISTORY 2
+http://109.105.205.250:8081/live/HISTORY2/playlist.m3u8
+#EXTINF:0,ANIMAL PLANET
+http://109.105.205.250:8081/live/ANIMALPLANET/playlist.m3u8
+#EXTINF:0,DISCOVERY
+http://109.105.205.250:8081/live/DISCOVERY/playlist.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://109.105.205.250:8081/live/NATIONALGEOGRAPHIC/playlist.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD
+http://109.105.205.250:8081/live/NATIONALGEOGRAPHICWILD/playlist.m3u8
+#EXTINF:0,EUROSPORT 1
+http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
+#EXTINF:0,EUROSPORT 2
+http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
+#EXTINF:0,NICKELODEON
+http://109.105.205.250:8081/live/NICKELODEON/playlist.m3u8
+#EXTINF:0,NICK JR
+http://109.105.205.250:8081/live/NICKJR/playlist.m3u8
+#EXTINF:0,SPORTSKA TV
+http://109.105.201.182:8081/maxtv/sportskatv/playlist.m3u8
+
+
+
 
 #EXTINF:0,====KOMBETARE====
 http://test-tv.m3u8?1
