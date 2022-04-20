@@ -1,3 +1,164 @@
+
+#EXTINF:0,eleven1
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEi4WONRyJqta0EvS_TC3mM
+
+#EXTINF:0,eleven 2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLQi5XHEhO0M9T4kiDKFH0U
+
+#EXTINF:0,eleven 3
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFab2gisoo7JmvP7iI27VDs?checkedby:iptvcat.com
+
+#EXTINF:0,eleven4
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHBqT3QeTqafGeqdpT_KVuk
+
+#EXTINF:0,eleven5
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNARPOsgyZUx0qHBIoslOzc
+
+#EXTINF:0,ELEVEN 6
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFUSTzFGfRz0z_uDHYBucNw
+
+#EXTINF:0,eleven sports2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLQi5XHEhO0M9T4kiDKFH0U
+
+#EXTINF:0,eleven sports4
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLiDTUaXlIyPOWpdzWzPqSQ
+
+#EXTINF:0,sky sport1
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNgQcuqET0SIZiUGpe0nzXg
+
+#EXTINF:0,sky sport2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMa4ttPS_rs6jQPOIh3J4h8
+
+#EXTINF:0,sky sport news 
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIY-CzVt6fNhWSkWKWtjMP8
+
+#EXTINF:0,fox sports2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLbKWH4ZmEoBAek4SrQilSo
+
+#EXTINF:0,max sport2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFISfJjJsLAPcmmWxuza1tzo
+
+#EXTINF:0,polsat sport extra
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMUXnwMwZEZ-kaptjN_bgpk
+
+#EXTINF:0,polsat sport
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIeRlicZFGHacZcNdukoRTk
+
+#EXTINF:0,sport TV1
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPWE45ms2CXd7sN2QrWqe3Y
+
+#EXTINF:0,sport tv2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBGcCNbyJPWGhcW0y-Cci0k
+
+#EXTINF:0,sport tv3
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJ3pnvUR7Zoj5SwaNHxbTuY
+
+#EXTINF:0,sport tv4
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFA559ZgX4ktoGwgGMkZO3MQ
+
+#EXTINF:0,sport tv5
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOb76s5QG2cH0hZyJJp8WLo
+
+#EXTINF:0,sport tv+
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBl-CiAcM2UpIFYqVPj-RNQ
+
+#EXTINF:0,sport tv+hd
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIt-k7qADmjAhAiTU0_JakI
+
+#EXTINF:0,sky sport f1
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHbTK9hWZzO2Tn81KyFSV4Y
+
+#EXTINF:0,nova sport
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLtpoM3MG1WHZZqbjiWyBGw
+
+#EXTINF:0,nova sports1
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCldkMAZcK0sJkFAVvFHdTc
+
+#EXTINF:0,diema sport2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIoaP-BBLhmJUXSXdlH2KV0
+
+#EXTINF:0,digi sport3
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIk8GduUBE9_xczxSdY24ig
+
+#EXTINF:0,max sport 3
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGVpwFxjd_1rJ1T005A2N8E
+
+#EXTINF:0,max sport1
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFE5pSQbnLqCRcDWYEo4rEyI
+
+#EXTINF:0,ss1
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFP30eAhtXOgQQBwgILTdYX4
+
+#EXTINF:0,ss1hd
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDwz6TK47YkmU6_Zv3jjY4s
+
+#EXTINF:0,Super Sport 3 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIyJ8HRS6ywDQl8zVJk1i1s
+
+#EXTINF:0,SuperSport 3
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFERFhtkkx5M-aS_HNJsBsng
+
+#EXTINF:0,ss4hd
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKr_fyNRLWZq5AewUVC2Rzo
+
+#EXTINF:0,ss4
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGrFMt6FEXwNIJ7SQAHnFyA
+
+#EXTINF:0,ss5
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFMMooPVyx_QAxchW_ChOQk
+
+#EXTINF:0,ss6
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBh5RYRpr8-VzQDgaetalK8see 
+
+#EXTINF:0,n sport 
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAjNm8L50wvwdY0YVz6Cj30
+
+#EXTINF:0,qazsport
+http://92.46.127.146:8080/qazsport-L3-TRANS/index.m3u8
+
+#EXTINF:0,sportdigital
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDaBzF0xTYABHl6Ln-2A-OM
+
+#EXTINF:0,arena 4
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIETxkvMAZ41psIRTPMtdL4
+
+#EXTINF:0,max sport4
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKmuiFLKpajmB-SSx_gttRs
+
+#EXTINF:0,sky calcio
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFP8MR4Jt1j4r7tjWpeFDyRk
+
+#EXTINF:0,TRING SPORT 1 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMlHEsaBY5Jrn8Lq8bemh0Q
+
+#EXTINF:0,tring sport2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEnrhQTXKT5sMFa8fpysMog
+
+#EXTINF:0,tring sport3
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKH7Q7gOU2oqTfpLD1qfgNw
+
+#EXTINF:0,eurosport2
+http://92.46.127.146:8080/Eurosport2-L3-TRANS/index.m3u8
+
+#EXTINF:0,diema sport1
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFF0TVNEgWEeFdA9-D_g2zR4
+
+#EXTINF:0,diema sport2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIoaP-BBLhmJUXSXdlH2KV0
+
+#EXTINF:0,tring sport4
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFANhPKXFqlgncVKjOO2XuqM
+
+#EXTINF:0,dazn1
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFA3TTB5CPIJNpPyLBHz6ncI
+
+#EXTINF:0,dazn2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDiEVMkOwoOW_Ocsrg8Lk_Q
+
+#EXTINF:0,dazn1 b
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHMu06mhCsQfQfyT3cJ4J94
+
+
 #EXTINF:0, HUSTLER TV
 http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_HUSTLER_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
 #EXTINF:0, REALITY KINGS
