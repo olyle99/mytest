@@ -1,241 +1,80 @@
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.14:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.8:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.68:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.74:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.76:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.78:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.66:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.70:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.72:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.104:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.98:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.110:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.102:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.100:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.106:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.112:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.108:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.132:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.130:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.142:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.138:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.144:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.164:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.168:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.170:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.202:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.196:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.200:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.206:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.198:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.204:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.228:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.232:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.1.234:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.230:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.1.226:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.4:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.2:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.6:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.36:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.40:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.38:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.34:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.70:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.66:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.72:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.76:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.68:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.74:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.130:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.132:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.134:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.136:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.138:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.140:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.142:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.144:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.146:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.148:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.152:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.150:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.156:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.158:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.162:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.154:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.166:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.170:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.178:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.172:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.168:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.174:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.186:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.180:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.200:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.194:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.204:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.206:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.216:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.220:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.224:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.212:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.226:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.214:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.208:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.218:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.184:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.196:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.234:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.202:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.190:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.240:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.232:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.244:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.242:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.2.246:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.228:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.222:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.238:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.2.236:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.3.38:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.3.58:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.3.44:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.3.52:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.3.42:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.3.40:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.3.64:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.3.70:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.3.50:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.3.76:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.3.56:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.3.74:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.3.62:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.3.80:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.3.84:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.3.82:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.3.54:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.3.68:5000
-#EXTINF:-1,New
-http://203.77.246.50:5000/udp/239.1.3.66:5000
-#EXTINF:-1,New HD
-http://203.77.246.50:5000/udp/239.1.3.78:5000
+#EXTINF:0, B1 MUSIC
+http://wowza.bihnet.net:88/hls/b1-live.m3u8
+
+#EXTINF:0, ESPN
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8 
+
+#EXTINF:0, ESPN2
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8 
+
+#EXTINF:0, ESPN3
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8 
+
+#EXTINF:0, ESPN4
+http://edge-live14-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+
+#EXTINF:0, CN
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+
+#EXTINF:0, FOX SPORTS
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:0, FOX SPORTS2
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+#EXTINF:0, FOX SPORTS3
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+#EXTINF:0, DISC.TURBO
+http://edge-live14-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+
+#EXTINF:0, FOX SPORTS PREMIUM
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+#EXTINF:0, TYC SPORTS
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
+#EXTINF:0, TNT SPORTS
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:0, RUSH SPORTS
+http://38.127.211.18/live/c2eds/RushHD/HLS/RushHD-mp4a_128000_eng=4.m3u8 
+
+#EXTINF:0, DUHOK SPORTS HD
+http://duhoktvstream.top:1935/live/Duhok--Sports--HD/index.m3u8 
+
+#EXTINF:0, MIX1
+http://78.47.248.131/live/abr_s-1/live/s-1_480p/chunks.m3u8?wmsAuthSign=
+
+#EXTINF:0, MIX2
+http://78.47.248.131/live/abr_s-2/live/s-2_480p/chunks.m3u8?wmsAuthSign=
+
+#EXTINF:0, MIX3
+http://78.47.248.131/live/abr_s-3/live/s-3_480p/chunks.m3u8?wmsAuthSign=
+
+#EXTINF:0, MIX4
+http://78.47.248.131/live/abr_s-4/live/s-4_480p/chunks.m3u8?wmsAuthSign=
+
+#EXTINF:0, MIX5
+http://78.47.248.131/live/abr_s-5/live/s-5_480p/chunks.m3u8?wmsAuthSign=
+
+#EXTINF:0, MIX6
+http://78.47.248.131/live/abr_s-6/live/s-6_480p/chunks.m3u8?wmsAuthSign=
+
+#EXTINF:0, PRIMA SPORT1
+https://uload.ru.com/cdn/eplayerprimasport1/chunks.m3u8|Referer=https://player.licenses4.me/
+
+#EXTINF:0, PRIMA SPORT2
+https://uload.ru.com/cdn/eplayerprimasport2/chunks.m3u8|Referer=https://player.licenses4.me/
+
+#EXTINF:0, PRIMA SPORT3
+https://uload.ru.com/cdn/eplayerprimasport3/chunks.m3u8|Referer=https://player.licenses4.me/
+
+#EXTINF:0, PRIMA SPORT4
+https://uload.ru.com/cdn/eplayerprimasport4/chunks.m3u8|Referer=https://player.licenses4.me/
+
+#EXTINF:0, VIXEN
+https://uload.ru.com/cdn/porno/chunks.m3u8|Referer=https://player.licenses4.me/
 
 
 #EXTINF:0,🦅 eleven1 🦅
