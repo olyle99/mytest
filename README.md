@@ -1,5 +1,102 @@
-#EXTINF:0, MPT2 SAT
-https://vod-c57.interspace.com/channel_abr/46/receiver/46_p3/chunks.m3u8?nimblesessionid=1922906&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDY6NDk6NDUgQU0maGFzaF92YWx1ZT1oNXpYZE02U1NOTS84Tmw4V0NCZ3pBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyNjY0NDg5YjVhMjU=
+#EXTINF:0,ss1
+http://77.247.109.109:8008/a/willene/live/1974733435.ts
+
+#EXTINF:0,ss2
+http://77.247.109.109:8008/a/willene/live/840200363.ts
+
+#EXTINF:0,ss3
+http://77.247.109.109:8008/a/willene/live/1221862347.ts
+
+#EXTINF:0,ss4
+http://77.247.109.109:8008/a/willene/live/3923795525.ts 
+
+#EXTINF:0,ks1
+http://77.247.109.109:8008/a/willene/live/2711778750.ts
+
+#EXTINF:0,ks2
+http://77.247.109.109:8008/a/willene/live/3858894702.ts
+
+#EXTINF:0,ks3
+http://77.247.109.109:8008/a/willene/live/3680642782.ts
+
+#EXTINF:0,ks4
+http://77.247.109.109:8008/a/willene/live/1765997262.ts
+
+#EXTINF:0,alsatm
+http://77.247.109.109:8008/a/willene/live/292855031.ts
+
+#EXTINF:0,eurofilm
+http://77.247.109.109:8008/a/willene/live/1186128660.ts
+
+#EXTINF:0,2hd
+http://77.247.109.109:8008/a/willene/live/2463432935.ts
+
+#EXTINF:0,klan
+http://77.247.109.109:8008/a/willene/live/790295896.ts
+
+#EXTINF:0,klan ks
+http://77.247.109.109:8008/a/willene/live/1094700401.ts
+
+#EXTINF:0,klan plus
+http://77.247.109.109:8008/a/willene/live/1116187237.ts
+
+#EXTINF:0,mpt2
+http://77.247.109.109:8008/a/willene/live/787763219.ts
+
+#EXTINF:0,mfm
+http://77.247.109.109:8008/a/willene/live/2916084239.ts
+
+#EXTINF:0,ktv
+http://77.247.109.109:8008/a/willene/live/257434602.ts
+
+#EXTINF:0,family hd
+http://77.247.109.109:8008/a/willene/live/3026157904.ts
+
+#EXTINF:0,sky aksion
+http://77.247.109.109:8008/a/willene/live/2947388436.ts
+
+#EXTINF:0,sky komedi
+http://77.247.109.109:8008/a/willene/live/3760383769.ts
+
+#EXTINF:0,sky max
+http://77.247.109.109:8008/a/willene/live/1676975905.ts
+
+#EXTINF:0,sofia
+http://77.247.109.109:8008/a/willene/live/988156565.ts
+
+#EXTINF:0,sky star
+http://77.247.109.109:8008/a/willene/live/3536409807.ts
+
+#EXTINF:0,top channel
+http://77.247.109.109:8008/a/willene/live/2060098407.ts
+
+#EXTINF:0,vizion+
+http://77.247.109.109:8008/a/willene/live/3491536861.ts
+
+#EXTINF:0,ts1
+http://77.247.109.109:8008/a/willene/live/4113485470.ts
+
+#EXTINF:0,ts2
+http://77.247.109.109:8008/a/willene/live/2074200445.ts
+
+#EXTINF:0,ts3
+http://77.247.109.109:8008/a/willene/live/3071003107.ts
+
+#EXTINF:0,ts4
+http://77.247.109.109:8008/a/willene/live/3184443642.ts
+
+#EXTINF:0,t.life
+http://77.247.109.109:8008/a/willene/live/3508858436.ts
+
+#EXTINF:0,t.comedy
+http://77.247.109.109:8008/a/willene/live/4016395229.ts
+
+#EXTINF:0,supersonic
+http://77.247.109.109:8008/a/willene/live/2630261877.ts
+
+#EXTINF:0,rtv21 mix
+http://77.247.109.109:8008/a/willene/live/854075738.ts
+
 
 #EXTINF:0, B1 MUSIC
 http://wowza.bihnet.net:88/hls/b1-live.m3u8
