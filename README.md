@@ -1,3 +1,6 @@
+#EXTINF:0, MPT2 SAT
+https://vod-c57.interspace.com/channel_abr/46/receiver/46_p3/chunks.m3u8?nimblesessionid=1922906&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDY6NDk6NDUgQU0maGFzaF92YWx1ZT1oNXpYZE02U1NOTS84Tmw4V0NCZ3pBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyNjY0NDg5YjVhMjU=
+
 #EXTINF:0, B1 MUSIC
 http://wowza.bihnet.net:88/hls/b1-live.m3u8
 
