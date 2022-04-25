@@ -4,11 +4,14 @@ https://vod-c57.interspace.com/channel_abr/46/receiver/46_p3/chunks.m3u8?nimbles
 #EXTINF:0, B1 MUSIC
 http://wowza.bihnet.net:88/hls/b1-live.m3u8
 
-#EXTINF:0, ESPN
+#EXTINF:0, ESPN extra
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8 
 
-#EXTINF:0, ESPN2
+#EXTINF:0, ESPN
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8 
+
+#EXTINF:0, ESPN2
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 
 #EXTINF:0, ESPN3
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8 
