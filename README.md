@@ -1,3 +1,24 @@
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://bit.ly/cinemaflag",========>>SHQIP-TV FILM<<========
+https://tinyurl.com/cinemaalb?film05
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/LT65OXP.png",[$]SHQIP-TV NETFLIX HD
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/27.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/IolNvUY.png",[$]SHQIP-TV THRILLER HD
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/25.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/XfIniiG.png",[$]SHQIP-TV MISTER HD
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/26.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/PqDnVQe.png",[$]SHQIP-TV AKSION HD
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/32.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/wJbASLE.png",[$]SHQIP-TV FAMILJAR HD
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/33.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/NYZCPsR.png",[$]SHQIP-TV HORROR HD
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/36.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/ASeX8Tf.png",[$]SHQIP-TV AVENTURE HD
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/39.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift 
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/OGHSk18.png",[$]SHQIP-TV FANTAZI HD
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/74.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/eg6vZED.png",[$]SHQIP-TV KOMEDI HD
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/75.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+
 #EXTINF:0,ss1
 http://77.247.109.109:8008/a/willene/live/1974733435.ts
 
