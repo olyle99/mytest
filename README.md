@@ -1,3 +1,10 @@
+
+#EXTINF:0, FILM
+http://host.serveri.stream:8080/freemx/free/214|User-Agent=test963
+
+#EXTINF:0, KLAN PLUS
+http://host.serveri.stream:8080/freemx/free/14|User-Agent=test963
+
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus.png" ,Canal+ Premium
 http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=303b13db2f30c9bb352ac3e52b75a4d8fa9ac416729649820e4e690a4bb066aae441ea6d548b35d64b111300bbce48bbc020d670483d2392e0dc77437d413505
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-film.png" ,Canal+ Film
