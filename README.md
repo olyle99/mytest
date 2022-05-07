@@ -143,6 +143,57 @@ http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=303b13db2f30c9bb35
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/minimini.png" ,MiniMini+
 http://internetowa.tv/?c=hlsPlay&channel=miniminiplus&token=303b13db2f30c9bb352ac3e52b75a4d8fa9ac416729649820e4e690a4bb066aae441ea6d548b35d64b111300bbce48bbc020d670483d2392e0dc77437d413505
 
+mama&nena ep25. fund
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/watch?v=LkJiQL00JzQ
+ep24
+https://m.youtube.com/watch?v=nkPrImIRJsY
+ep23
+https://m.youtube.com/watch?v=VQMCxoXCFv4
+ep22
+https://m.youtube.com/watch?v=t7OJBT77o4I
+ep21
+https://m.youtube.com/watch?v=ipilPalyQaU
+ep20
+https://m.youtube.com/watch?v=6aRQ3-DrqM4
+ep19
+https://m.youtube.com/watch?v=qLNpjxLWdEY
+ep18
+https://m.youtube.com/watch?v=tJl-gn8xfFw
+ep17
+https://m.youtube.com/watch?v=AP3VRiGV6d4
+ep16
+https://m.youtube.com/watch?v=mxr9X55kR7o
+ep15
+https://m.youtube.com/watch?v=ooQY0gmaSyU
+ep14
+https://m.youtube.com/watch?v=GCQDYKR_GuQ
+ep13
+https://m.youtube.com/watch?v=14sNaM4Qzfk
+ep12
+https://m.youtube.com/watch?v=y6lIP66G4JM
+ep11
+https://m.youtube.com/watch?v=iJUZKU6RULo
+ep10
+https://m.youtube.com/watch?v=ooXPgHS8wrk
+ep9
+https://m.youtube.com/watch?v=T_KfoBLO2e0
+ep8
+https://m.youtube.com/watch?v=DDnft2A4m2Y
+ep7
+https://m.youtube.com/watch?v=xYsnKbD0ZNE
+ep6
+https://m.youtube.com/watch?v=LUOFU3EoRGE
+ep5
+https://m.youtube.com/watch?v=Xr8Eyyzb4Ig
+ep4
+https://m.youtube.com/watch?v=IJWrD8Rxgj4
+ep3
+https://m.youtube.com/watch?v=V3A-KwGamJ8
+ep2
+https://m.youtube.com/watch?v=vw8kuVJPEIg
+ep1
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/watch?v=97Ysx4QbnbA
+
 
 
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://bit.ly/cinemaflag",========>>SHQIP-TV FILM<<========
