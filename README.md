@@ -1,9 +1,18 @@
 
-#EXTINF:0, FILM
-http://host.serveri.stream:8080/freemx/free/214|User-Agent=test963
+#EXTINF:0, sport 1
+https://0e8128ece2e0.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.820724938851.channel.FwHGONFD5WlI.m3u8
+#EXTINF:0, sport 2
+https://d4e6999e0485.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.529707182583.channel.OtHRa8SNPSN2.m3u8
+#EXTINF:0, sport 3
+https://f5b4ee8f2907.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.529707182583.channel.F1ue5c9TsY0V.m3u8
+#EXTINF:0, sport 4
+https://9416ab303498.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.820724938851.channel.4Tbyi53JHoB4.m3u8
+#EXTINF:0, sport 5
+https://bfa612661472.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.529707182583.channel.ySu9dhpdfh19.m3u8
 
-#EXTINF:0, KLAN PLUS
-http://host.serveri.stream:8080/freemx/free/14|User-Agent=test963
+
+
+
 
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus.png" ,Canal+ Premium
 http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=303b13db2f30c9bb352ac3e52b75a4d8fa9ac416729649820e4e690a4bb066aae441ea6d548b35d64b111300bbce48bbc020d670483d2392e0dc77437d413505
