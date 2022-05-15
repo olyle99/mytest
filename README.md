@@ -10,7 +10,22 @@ https://9416ab303498.ap-northeast-1.playback.live-video.net/api/video/v1/ap-nort
 #EXTINF:0, sport 5
 https://bfa612661472.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.529707182583.channel.ySu9dhpdfh19.m3u8
 
-
+#EXTINF:0, m.apeha
+http://st1.astra-uk.ru:81/c623807f58e3df60c8e6412dadb304bc/playlist.m3u8 
+#EXTINF:0, m.nrpa
+http://st1.astra-uk.ru:81/3812743275839d876eef972d7e911ba7/playlist.m3u8 
+#EXTINF:0, m.npembep
+http://st1.astra-uk.ru:81/b45d5f141a858bbb2283fe163c29a332/playlist.m3u8 
+#EXTINF:0, m.ctpaha
+http://st1.astra-uk.ru:81/a163c248a70cc2f46b9dca5b9ba140f1/playlist.m3u8
+#EXTINF:0, m.oytgon 1
+http://st1.astra-uk.ru:81/4983583e2908e1c7025990aa87954fe6/playlist.m3u8 
+#EXTINF:0, m.oytgon 2
+http://st1.astra-uk.ru:81/2b1493ecdc76534e9560442c4c177e16/playlist.m3u8 
+#EXTINF:0, m.oytgon 3
+http://st1.astra-uk.ru:81/9fe847ab23f4333d92bb88f022337476/playlist.m3u8 
+#EXTINF:0, m.boeu
+http://st1.astra-uk.ru:81/b75aeb398df5cbe3ef3e37fb3ad28018/playlist.m3u8 
 
 
 
