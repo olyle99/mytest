@@ -1,15 +1,15 @@
 
-#EXTINF:0,
+#EXTINF:0,bang
 http://135.125.6.54/bang/index.m3u8
 
-#EXTINF:0,
+#EXTINF:0,cufo
 http://135.125.6.54/cufo/index.m3u8
 
-#EXTINF:0,
+#EXTINF:0,ss2
 http://135.125.6.54/ss2/index.m3u8
 
 
-#EXTINF:0,
+#EXTINF:0,ss3
 http://135.125.6.54/ss3/index.m3u8
 
 
