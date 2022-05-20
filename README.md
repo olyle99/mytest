@@ -1,3 +1,17 @@
+#EXTINF:0,ov1
+http://5.206.237.251:1288/OverSport1HD
+#EXTINF:0,ov2
+http://5.206.237.251:1288/OverSport2HD
+
+#EXTINF:0,ov11
+http://5.206.237.251:1288/Oversport1HD
+#EXTINF:0,ov22
+http://5.206.237.251:1288/Oversport2HD
+
+#EXTINF:0,ov test
+http://5.206.237.251:1288/oversport1HD
+
+
 
 #EXTINF:0, sport 1
 https://0e8128ece2e0.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.820724938851.channel.FwHGONFD5WlI.m3u8
