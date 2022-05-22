@@ -1,4 +1,29 @@
 
+#EXTINF:0,LIFE
+http://5.206.237.251:1288/LifeHD
+
+#EXTINF:0,cinema1
+http://5.206.237.251:1288/Cinema1HD
+
+#EXTINF:0,cinema2
+http://5.206.237.251:1288/Cinema2
+
+
+#EXTINF:0,tera
+http://5.206.237.251:1288/TeraHD
+
+
+#EXTINF:0,TERRA
+http://5.206.237.251:1288/TerraHD
+
+
+#EXTINF:0,TAO
+http://5.206.237.251:1288/TaoTao
+
+
+#EXTINF:0,Taotao
+http://5.206.237.251:1288/TaoTaoHD
+
 #EXTINF:0,bang
 http://135.125.6.54/bang/index.m3u8
 
