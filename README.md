@@ -1,43 +1,416 @@
 
 #EXTINF:0,LIFE
-http://5.206.237.251:1288/LifeHD
-
-#EXTINF:0,cinema1
-http://5.206.237.251:1288/Cinema1HD
-
-#EXTINF:0,cinema2
-http://5.206.237.251:1288/Cinema2
-
-
-#EXTINF:0,tera
-http://5.206.237.251:1288/TeraHD
-
-
-#EXTINF:0,TERRA
-http://5.206.237.251:1288/TerraHD
-
-
-#EXTINF:0,TAO
-http://5.206.237.251:1288/TaoTao
-
-
-#EXTINF:0,Taotao
-http://5.206.237.251:1288/TaoTaoHD
-
-#EXTINF:0,bang
-http://135.125.6.54/bang/index.m3u8
-
-#EXTINF:0,cufo
-http://135.125.6.54/cufo/index.m3u8
-
-#EXTINF:0,ss2
-http://135.125.6.54/ss2/index.m3u8
-
-
-#EXTINF:0,ss3
-http://135.125.6.54/ss3/index.m3u8
-
-
+http#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="Shqiperia TV",Top Channel
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/181
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD" tvg-logo="" group-title="Shqiperia TV",Top Channel HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/1
+#EXTINF:-1 tvg-id="" tvg-name="Klan Tv" tvg-logo="" group-title="Shqiperia TV",Klan Tv
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/180
+#EXTINF:-1 tvg-id="" tvg-name="Klan HD" tvg-logo="" group-title="Shqiperia TV",Klan HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/2
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus" tvg-logo="" group-title="Shqiperia TV",Vizion Plus
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/182
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="Shqiperia TV",Vizion Plus HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/3
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 1" tvg-logo="" group-title="Shqiperia TV",RTSH 1
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/4
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 2" tvg-logo="" group-title="Shqiperia TV",RTSH 2
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/5
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 3" tvg-logo="" group-title="Shqiperia TV",RTSH 3
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/6
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Film" tvg-logo="" group-title="Shqiperia TV",RTSH Film
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/7
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Muzike" tvg-logo="" group-title="Shqiperia TV",RTSH Muzike
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip" tvg-logo="" group-title="Shqiperia TV",RTSH Shqip
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/9
+#EXTINF:-1 tvg-id="" tvg-name="KLAN PLUS HD" tvg-logo="" group-title="Shqiperia TV",KLAN PLUS HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/10
+#EXTINF:-1 tvg-id="" tvg-name="Klan macedonia" tvg-logo="" group-title="Shqiperia TV",Klan macedonia
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/199
+#EXTINF:-1 tvg-id="" tvg-name="Klan news" tvg-logo="" group-title="Shqiperia TV",Klan news
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/197
+#EXTINF:-1 tvg-id="" tvg-name="Klan music" tvg-logo="" group-title="Shqiperia TV",Klan music
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/198
+#EXTINF:-1 tvg-id="" tvg-name="LAJMET" tvg-logo="" group-title="Shqiperia TV",LAJMET
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/11
+#EXTINF:-1 tvg-id="" tvg-name="Fax News" tvg-logo="" group-title="Shqiperia TV",Fax News
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/12
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="Shqiperia TV",ABC News
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/13
+#EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo="" group-title="Shqiperia TV",News24
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/14
+#EXTINF:-1 tvg-id="" tvg-name="Top News" tvg-logo="" group-title="Shqiperia TV",Top News
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/15
+#EXTINF:-1 tvg-id="" tvg-name="Ora tv" tvg-logo="" group-title="Shqiperia TV",Ora tv
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/16
+#EXTINF:-1 tvg-id="" tvg-name="Ora News" tvg-logo="" group-title="Shqiperia TV",Ora News
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/17
+#EXTINF:-1 tvg-id="" tvg-name="A2" tvg-logo="" group-title="Shqiperia TV",A2
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/18
+#EXTINF:-1 tvg-id="" tvg-name="Report TV" tvg-logo="" group-title="Shqiperia TV",Report TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/19
+#EXTINF:-1 tvg-id="" tvg-name="ARTA NEWS" tvg-logo="" group-title="Shqiperia TV",ARTA NEWS
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/20
+#EXTINF:-1 tvg-id="" tvg-name="Euro News Albania" tvg-logo="" group-title="Shqiperia TV",Euro News Albania
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/22
+#EXTINF:-1 tvg-id="" tvg-name="Syri TV" tvg-logo="" group-title="Shqiperia TV",Syri TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/183
+#EXTINF:-1 tvg-id="" tvg-name="☆TELE ONE FILM TV☆" tvg-logo="" group-title="Shqiperia TV",☆TELE ONE FILM TV☆
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/23
+#EXTINF:-1 tvg-id="" tvg-name="TELE one muzik Shqip" tvg-logo="" group-title="Shqiperia TV",TELE one muzik Shqip
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/24
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Aksion HD" tvg-logo="" group-title="Shqiperia TV",TELE one Aksion HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/25
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Aventure" tvg-logo="" group-title="Shqiperia TV",TELE one Aventure
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/26
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Crime HD" tvg-logo="" group-title="Shqiperia TV",TELE one Crime HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/27
+#EXTINF:-1 tvg-id="" tvg-name="TELE one GOLD Collection HD" tvg-logo="" group-title="Shqiperia TV",TELE one GOLD Collection HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/28
+#EXTINF:-1 tvg-id="" tvg-name="TELE one fantazi HD" tvg-logo="" group-title="Shqiperia TV",TELE one fantazi HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/29
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Thriller HD" tvg-logo="" group-title="Shqiperia TV",TELE one Thriller HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/30
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Drama HD" tvg-logo="" group-title="Shqiperia TV",TELE one Drama HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/31
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Epik HD" tvg-logo="" group-title="Shqiperia TV",TELE one Epik HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/32
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Gags" tvg-logo="" group-title="Shqiperia TV",TELE one Gags
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/33
+#EXTINF:-1 tvg-id="" tvg-name="TELE one muzik hits HD" tvg-logo="" group-title="Shqiperia TV",TELE one muzik hits HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/34
+#EXTINF:-1 tvg-id="" tvg-name="TELE one KURANI ( shqip )" tvg-logo="" group-title="Shqiperia TV",TELE one KURANI ( shqip )
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/35
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 1" tvg-logo="" group-title="Shqiperia TV",TELE one 1
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/36
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 2" tvg-logo="" group-title="Shqiperia TV",TELE one 2
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/37
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 3" tvg-logo="" group-title="Shqiperia TV",TELE one 3
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/38
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 4" tvg-logo="" group-title="Shqiperia TV",TELE one 4
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/39
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 5" tvg-logo="" group-title="Shqiperia TV",TELE one 5
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/40
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 6" tvg-logo="" group-title="Shqiperia TV",TELE one 6
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/41
+#EXTINF:-1 tvg-id="" tvg-name="DIGITALB E TRING ☆" tvg-logo="" group-title="Shqiperia TV",DIGITALB E TRING ☆
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/42
+#EXTINF:-1 tvg-id="" tvg-name="Film Nje HD" tvg-logo="" group-title="Shqiperia TV",Film Nje HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/43
+#EXTINF:-1 tvg-id="" tvg-name="Film Dy HD" tvg-logo="" group-title="Shqiperia TV",Film Dy HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/44
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="" group-title="Shqiperia TV",Film Aksion
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/45
+#EXTINF:-1 tvg-id="" tvg-name="Family HD" tvg-logo="" group-title="Shqiperia TV",Family HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/46
+#EXTINF:-1 tvg-id="" tvg-name="Eurofilm" tvg-logo="" group-title="Shqiperia TV",Eurofilm
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/47
+#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="" group-title="Shqiperia TV",Film Autor
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/48
+#EXTINF:-1 tvg-id="" tvg-name="Film Stine" tvg-logo="" group-title="Shqiperia TV",Film Stine
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/49
+#EXTINF:-1 tvg-id="" tvg-name="Film Thriller" tvg-logo="" group-title="Shqiperia TV",Film Thriller
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/50
+#EXTINF:-1 tvg-id="" tvg-name="T HD" tvg-logo="" group-title="Shqiperia TV",T HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/51
+#EXTINF:-1 tvg-id="" tvg-name="Film Dram" tvg-logo="" group-title="Shqiperia TV",Film Dram
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/52
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="" group-title="Shqiperia TV",Film Hits
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/53
+#EXTINF:-1 tvg-id="" tvg-name="Film Komedi" tvg-logo="" group-title="Shqiperia TV",Film Komedi
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/54
+#EXTINF:-1 tvg-id="" tvg-name="TRING ACTION" tvg-logo="" group-title="Shqiperia TV",TRING ACTION
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/55
+#EXTINF:-1 tvg-id="" tvg-name="TRING COMEDY" tvg-logo="" group-title="Shqiperia TV",TRING COMEDY
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/56
+#EXTINF:-1 tvg-id="" tvg-name="TRING FANTASY" tvg-logo="" group-title="Shqiperia TV",TRING FANTASY
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/57
+#EXTINF:-1 tvg-id="" tvg-name="TRING LIFE" tvg-logo="" group-title="Shqiperia TV",TRING LIFE
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/58
+#EXTINF:-1 tvg-id="" tvg-name="TRING SHQIP" tvg-logo="" group-title="Shqiperia TV",TRING SHQIP
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/59
+#EXTINF:-1 tvg-id="" tvg-name="TRING SUPER" tvg-logo="" group-title="Shqiperia TV",TRING SUPER
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/60
+#EXTINF:-1 tvg-id="" tvg-name="JOLLY hd" tvg-logo="" group-title="Shqiperia TV",JOLLY hd
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/61
+#EXTINF:-1 tvg-id="" tvg-name="Tring 3 PLUS" tvg-logo="" group-title="Shqiperia TV",Tring 3 PLUS
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/62
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama HD" tvg-logo="" group-title="Shqiperia TV",Kanal D Drama HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/194
+#EXTINF:-1 tvg-id="" tvg-name="☆PER JU FEMIJE TE DASHUR☆" tvg-logo="" group-title="Shqiperia TV",☆PER JU FEMIJE TE DASHUR☆
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/63
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="" group-title="Shqiperia TV",Tom & Jerry
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/64
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Animation" tvg-logo="" group-title="Shqiperia TV",Kinema Animation
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/65
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Femije" tvg-logo="" group-title="Shqiperia TV",RTSH Femije
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/66
+#EXTINF:-1 tvg-id="" tvg-name="CUFO TV" tvg-logo="" group-title="Shqiperia TV",CUFO TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/67
+#EXTINF:-1 tvg-id="" tvg-name="Bang Bang" tvg-logo="" group-title="Shqiperia TV",Bang Bang
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/68
+#EXTINF:-1 tvg-id="" tvg-name="TRING TRING" tvg-logo="" group-title="Shqiperia TV",TRING TRING
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/69
+#EXTINF:-1 tvg-id="" tvg-name="JUNIOR TV" tvg-logo="" group-title="Shqiperia TV",JUNIOR TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/70
+#EXTINF:-1 tvg-id="" tvg-name="TRING SMILE" tvg-logo="" group-title="Shqiperia TV",TRING SMILE
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/71
+#EXTINF:-1 tvg-id="" tvg-name="TRING KIDS" tvg-logo="" group-title="Shqiperia TV",TRING KIDS
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/72
+#EXTINF:-1 tvg-id="" tvg-name="☆DOKUMENTAR☆" tvg-logo="" group-title="Shqiperia TV",☆DOKUMENTAR☆
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/73
+#EXTINF:-1 tvg-id="" tvg-name="EXP HISTORI" tvg-logo="" group-title="Shqiperia TV",EXP HISTORI
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/74
+#EXTINF:-1 tvg-id="" tvg-name="EXP Natyra" tvg-logo="" group-title="Shqiperia TV",EXP Natyra
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/75
+#EXTINF:-1 tvg-id="" tvg-name="EXP SHKENCE" tvg-logo="" group-title="Shqiperia TV",EXP SHKENCE
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/76
+#EXTINF:-1 tvg-id="" tvg-name="TRING WORLD" tvg-logo="" group-title="Shqiperia TV",TRING WORLD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/77
+#EXTINF:-1 tvg-id="" tvg-name="TRING HISTORI" tvg-logo="" group-title="Shqiperia TV",TRING HISTORI
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/78
+#EXTINF:-1 tvg-id="" tvg-name="TRING PLANET" tvg-logo="" group-title="Shqiperia TV",TRING PLANET
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/79
+#EXTINF:-1 tvg-id="" tvg-name="Living" tvg-logo="" group-title="Shqiperia TV",Living
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/80
+#EXTINF:-1 tvg-id="" tvg-name="☆KOSOVA TV LIVE☆" tvg-logo="" group-title="Shqiperia TV",☆KOSOVA TV LIVE☆
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/81
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1" tvg-logo="" group-title="Shqiperia TV",RTK 1
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/82
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2" tvg-logo="" group-title="Shqiperia TV",RTK 2
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/83
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3" tvg-logo="" group-title="Shqiperia TV",RTK 3
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/84
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4" tvg-logo="" group-title="Shqiperia TV",RTK 4
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/85
+#EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-logo="" group-title="Shqiperia TV",KTV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/86
+#EXTINF:-1 tvg-id="" tvg-name="KLAN KOSOVA" tvg-logo="" group-title="Shqiperia TV",KLAN KOSOVA
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/87
+#EXTINF:-1 tvg-id="" tvg-name="ERA TV" tvg-logo="" group-title="Shqiperia TV",ERA TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/88
+#EXTINF:-1 tvg-id="" tvg-name="Alsat M" tvg-logo="" group-title="Shqiperia TV",Alsat M
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/89
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21" tvg-logo="" group-title="Shqiperia TV",RTV 21
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/90
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 JUNIOR" tvg-logo="" group-title="Shqiperia TV",RTV 21 JUNIOR
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/91
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 M" tvg-logo="" group-title="Shqiperia TV",RTV 21 M
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/92
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 PLUS HD" tvg-logo="" group-title="Shqiperia TV",RTV 21 PLUS HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/93
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 POPULLORE" tvg-logo="" group-title="Shqiperia TV",RTV 21 POPULLORE
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/94
+#EXTINF:-1 tvg-id="" tvg-name="TV KOHA tetov" tvg-logo="" group-title="Shqiperia TV",TV KOHA tetov
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/95
+#EXTINF:-1 tvg-id="" tvg-name="T 7" tvg-logo="" group-title="Shqiperia TV",T 7
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/96
+#EXTINF:-1 tvg-id="" tvg-name="First tv" tvg-logo="" group-title="Shqiperia TV",First tv
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/97
+#EXTINF:-1 tvg-id="" tvg-name="☆MUZIKE☆" tvg-logo="" group-title="Shqiperia TV",☆MUZIKE☆
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/114
+#EXTINF:-1 tvg-id="" tvg-name="Club tv" tvg-logo="" group-title="Shqiperia TV",Club tv
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/115
+#EXTINF:-1 tvg-id="" tvg-name="ELrodi" tvg-logo="" group-title="Shqiperia TV",ELrodi
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/116
+#EXTINF:-1 tvg-id="" tvg-name="Folk" tvg-logo="" group-title="Shqiperia TV",Folk
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/117
+#EXTINF:-1 tvg-id="" tvg-name="Supersonic TV" tvg-logo="" group-title="Shqiperia TV",Supersonic TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/118
+#EXTINF:-1 tvg-id="" tvg-name="BBF" tvg-logo="" group-title="Shqiperia TV",BBF
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/119
+#EXTINF:-1 tvg-id="" tvg-name="My Music" tvg-logo="" group-title="Shqiperia TV",My Music
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/120
+#EXTINF:-1 tvg-id="" tvg-name="Balkanika TV" tvg-logo="" group-title="Shqiperia TV",Balkanika TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/21
+#EXTINF:-1 tvg-id="" tvg-name="☆PAKETA TE TJERA☆" tvg-logo="" group-title="Shqiperia TV",☆PAKETA TE TJERA☆
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/121
+#EXTINF:-1 tvg-id="" tvg-name="X Premium 1 HD" tvg-logo="" group-title="Shqiperia TV",X Premium 1 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/122
+#EXTINF:-1 tvg-id="" tvg-name="X Premium 2 HD" tvg-logo="" group-title="Shqiperia TV",X Premium 2 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/123
+#EXTINF:-1 tvg-id="" tvg-name="X Premium 3 HD" tvg-logo="" group-title="Shqiperia TV",X Premium 3 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/124
+#EXTINF:-1 tvg-id="" tvg-name="X Premium 4 HD" tvg-logo="" group-title="Shqiperia TV",X Premium 4 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/125
+#EXTINF:-1 tvg-id="" tvg-name="X Romance HD" tvg-logo="" group-title="Shqiperia TV",X Romance HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/126
+#EXTINF:-1 tvg-id="" tvg-name="X Comedy HD" tvg-logo="" group-title="Shqiperia TV",X Comedy HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/127
+#EXTINF:-1 tvg-id="" tvg-name="X Dark HD" tvg-logo="" group-title="Shqiperia TV",X Dark HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/128
+#EXTINF:-1 tvg-id="" tvg-name="X Family HD" tvg-logo="" group-title="Shqiperia TV",X Family HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/129
+#EXTINF:-1 tvg-id="" tvg-name="X Western HD" tvg-logo="" group-title="Shqiperia TV",X Western HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/130
+#EXTINF:-1 tvg-id="" tvg-name="X Action HD" tvg-logo="" group-title="Shqiperia TV",X Action HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/131
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Aksion" tvg-logo="" group-title="Shqiperia TV",Kinema Aksion
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/132
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Aksion MAX" tvg-logo="" group-title="Shqiperia TV",Kinema Aksion MAX
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/133
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Classics" tvg-logo="" group-title="Shqiperia TV",Kinema Classics
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/134
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Comedy" tvg-logo="" group-title="Shqiperia TV",Kinema Comedy
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/135
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Family" tvg-logo="" group-title="Shqiperia TV",Kinema Family
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/136
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Fantasy" tvg-logo="" group-title="Shqiperia TV",Kinema Fantasy
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/137
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Gold" tvg-logo="" group-title="Shqiperia TV",Kinema Gold
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/138
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Hits" tvg-logo="" group-title="Shqiperia TV",Kinema Hits
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/139
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Milenium 1" tvg-logo="" group-title="Shqiperia TV",Kinema Milenium 1
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/140
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Milenium 2" tvg-logo="" group-title="Shqiperia TV",Kinema Milenium 2
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/141
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Milenium 3" tvg-logo="" group-title="Shqiperia TV",Kinema Milenium 3
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/142
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Milenium 4" tvg-logo="" group-title="Shqiperia TV",Kinema Milenium 4
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/143
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Super" tvg-logo="" group-title="Shqiperia TV",Kinema Super
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/144
+#EXTINF:-1 tvg-id="" tvg-name="☆ LOKALE TE NDRYSHME ☆" tvg-logo="" group-title="Shqiperia TV",☆ LOKALE TE NDRYSHME ☆
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/145
+#EXTINF:-1 tvg-id="" tvg-name="Boin TV" tvg-logo="" group-title="Shqiperia TV",Boin TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/146
+#EXTINF:-1 tvg-id="" tvg-name="RTV Fontana" tvg-logo="" group-title="Shqiperia TV",RTV Fontana
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/147
+#EXTINF:-1 tvg-id="" tvg-name="TDC" tvg-logo="" group-title="Shqiperia TV",TDC
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/148
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Shqiperia TV",TLC
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/149
+#EXTINF:-1 tvg-id="" tvg-name="Tv Besa" tvg-logo="" group-title="Shqiperia TV",Tv Besa
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/150
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SKY TV" tvg-logo="" group-title="Shqiperia TV",BLUE SKY TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/151
+#EXTINF:-1 tvg-id="" tvg-name="CH-1 SHKODRA" tvg-logo="" group-title="Shqiperia TV",CH-1 SHKODRA
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/152
+#EXTINF:-1 tvg-id="" tvg-name="TV ROZAFA" tvg-logo="" group-title="Shqiperia TV",TV ROZAFA
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/153
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA-TV SHKODER" tvg-logo="" group-title="Shqiperia TV",ANTENA-TV SHKODER
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/154
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS SHKODRA" tvg-logo="" group-title="Shqiperia TV",STAR PLUS SHKODRA
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/155
+#EXTINF:-1 tvg-id="" tvg-name="TV KOPLIKU" tvg-logo="" group-title="Shqiperia TV",TV KOPLIKU
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/156
+#EXTINF:-1 tvg-id="" tvg-name="Tv Dukagjini" tvg-logo="" group-title="Shqiperia TV",Tv Dukagjini
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/157
+#EXTINF:-1 tvg-id="" tvg-name="IN TV" tvg-logo="" group-title="Shqiperia TV",IN TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/158
+#EXTINF:-1 tvg-id="" tvg-name="RTV SHARRI HD" tvg-logo="" group-title="Shqiperia TV",RTV SHARRI HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/159
+#EXTINF:-1 tvg-id="" tvg-name="STV ONLIN" tvg-logo="" group-title="Shqiperia TV",STV ONLIN
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/160
+#EXTINF:-1 tvg-id="" tvg-name="TV OPOJA HD" tvg-logo="" group-title="Shqiperia TV",TV OPOJA HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/161
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV" tvg-logo="" group-title="Shqiperia TV",Dasma TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/163
+#EXTINF:-1 tvg-id="" tvg-name="Top Estrada" tvg-logo="" group-title="Shqiperia TV",Top Estrada
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/162
+#EXTINF:-1 tvg-id="" tvg-name="TURBO CHANNEL" tvg-logo="" group-title="Shqiperia TV",TURBO CHANNEL
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/164
+#EXTINF:-1 tvg-id="" tvg-name="ZJARR TV" tvg-logo="" group-title="Shqiperia TV",ZJARR TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/165
+#EXTINF:-1 tvg-id="" tvg-name="Medinna TV" tvg-logo="" group-title="Shqiperia TV",Medinna TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/166
+#EXTINF:-1 tvg-id="" tvg-name="Mekke TV" tvg-logo="" group-title="Shqiperia TV",Mekke TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/167
+#EXTINF:-1 tvg-id="" tvg-name="PEACE TV" tvg-logo="" group-title="Shqiperia TV",PEACE TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/168
+#EXTINF:-1 tvg-id="" tvg-name="RTV ISLAM" tvg-logo="" group-title="Shqiperia TV",RTV ISLAM
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/169
+#EXTINF:-1 tvg-id="" tvg-name="Xalastra TV" tvg-logo="" group-title="Shqiperia TV",Xalastra TV
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/185
+#EXTINF:-1 tvg-id="" tvg-name="Tile Mousiki" tvg-logo="" group-title="Shqiperia TV",Tile Mousiki
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/186
+#EXTINF:-1 tvg-id="" tvg-name="☆SPORT DIGITALB & TRING & KOSOVA☆" tvg-logo="" group-title="Shqiperia TV",☆SPORT DIGITALB & TRING & KOSOVA☆
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/98
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport" tvg-logo="" group-title="Sport",RTSH Sport
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/99
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 1 HD" tvg-logo="" group-title="Sport",Super Sport 1 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/100
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2 HD" tvg-logo="" group-title="Sport",Super Sport 2 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/101
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3 HD" tvg-logo="" group-title="Sport",Super Sport 3 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/102
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4 HD" tvg-logo="" group-title="Sport",Super Sport 4 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/103
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 5 HD" tvg-logo="" group-title="Sport",Super Sport 5 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/104
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 6 HD" tvg-logo="" group-title="Sport",Super Sport 6 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/195
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 7 HD" tvg-logo="" group-title="Sport",Super Sport 7 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/196
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT NEWS" tvg-logo="" group-title="Sport",TRING SPORT NEWS
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/105
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 1" tvg-logo="" group-title="Sport",TRING SPORT 1
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/106
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 2" tvg-logo="" group-title="Sport",TRING SPORT 2
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/107
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 3" tvg-logo="" group-title="Sport",TRING SPORT 3
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/108
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 4" tvg-logo="" group-title="Sport",TRING SPORT 4
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/109
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 1" tvg-logo="" group-title="Sport",Kujtesa Sport 1
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/110
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 2" tvg-logo="" group-title="Sport",Kujtesa Sport 2
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/111
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 3" tvg-logo="" group-title="Sport",Kujtesa Sport 3
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/112
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 4" tvg-logo="" group-title="Sport",Kujtesa Sport 4
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/113
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 HD" tvg-logo="" group-title="Sport",Bein Sport 1 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/170
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 HD" tvg-logo="" group-title="Sport",Bein Sport 2 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/171
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 HD" tvg-logo="" group-title="Sport",Bein Sport 3 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/172
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4 HD" tvg-logo="" group-title="Sport",Bein Sport 4 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/173
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5 HD" tvg-logo="" group-title="Sport",Bein Sport 5 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/174
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6 HD" tvg-logo="" group-title="Sport",Bein Sport 6 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/175
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7 HD" tvg-logo="" group-title="Sport",Bein Sport 7 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/176
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 8 HD" tvg-logo="" group-title="Sport",Bein Sport 8 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/177
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 9 HD" tvg-logo="" group-title="Sport",Bein Sport 9 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/178
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 10 HD" tvg-logo="" group-title="Sport",Bein Sport 10 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/179
+#EXTINF:-1 tvg-id="" tvg-name="Eleven HD1" tvg-logo="" group-title="Sport",Eleven HD1
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/187
+#EXTINF:-1 tvg-id="" tvg-name="Eleven HD2" tvg-logo="" group-title="Sport",Eleven HD2
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/188
+#EXTINF:-1 tvg-id="" tvg-name="Eleven HD3" tvg-logo="" group-title="Sport",Eleven HD3
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/189
+#EXTINF:-1 tvg-id="" tvg-name="Eleven HD4" tvg-logo="" group-title="Sport",Eleven HD4
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/200
+#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Sport",CBC SPORT
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/190
+#EXTINF:-1 tvg-id="" tvg-name="TRT-3 SPOR" tvg-logo="" group-title="Sport",TRT-3 SPOR
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/193
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1HD" tvg-logo="" group-title="Sport",Arena Sport 1HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/191
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2HD" tvg-logo="" group-title="Sport",Arena Sport 2HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/192
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3HD" tvg-logo="" group-title="Sport",Arena Sport 3HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/201
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4HD" tvg-logo="" group-title="Sport",Arena Sport 4HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/202
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5HD" tvg-logo="" group-title="Sport",ARENA SPORT 5HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/212
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 6HD" tvg-logo="" group-title="Sport",ARENA SPORT 6HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/213
+#EXTINF:-1 tvg-id="" tvg-name="relaks music" tvg-logo="" group-title="Shqiperia TV",relaks music
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/210
+#EXTINF:-1 tvg-id="" tvg-name="turkish music" tvg-logo="" group-title="Shqiperia TV",turkish music
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/211
 
 #EXTINF:0, sport 1
 https://0e8128ece2e0.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.820724938851.channel.FwHGONFD5WlI.m3u8
