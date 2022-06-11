@@ -1,3 +1,21 @@
+
+http://195.181.169.152:8080/CROATIA/HBO_HD/index.m3u
+http://195.181.169.152:8080/CROATIA/HBO_2_HD/index.m3u
+http://195.181.169.152:8080/CROATIA/HBO_3_HD/index.m3u8
+http://195.181.169.152:8080/CROATIA/CINESTAR_ACTION/index.m3u
+http://195.181.169.152:8080/CROATIA/CINESTAR_FANTASY/index.m3u
+http://195.181.169.152:8080/CROATIA/CINESTAR_PREMIERE_1/index.m3u
+http://195.181.169.152:8080/CROATIA/CINESTAR_PREMIERE_2/index.m3u
+http://195.181.169.152:8080/CROATIA/CINEMAX_1_HD/index.m3u
+http://195.181.169.152:8080/CROATIA/CINEMAX_2_HD/index.m3u
+http://195.181.169.152:8080/CROATIA/FOX_HD/index.m3u
+http://195.181.169.152:8080/CROATIA/FOX_LIFE_HD/index.m3u
+http://195.181.169.152:8080/CROATIA/FOX_CRIME_HD/index.m3u
+http://195.181.169.152:8080/CROATIA/FOX_MOVIES_HD/index.m3u
+http://195.181.169.152:8080/CROATIA/KINO_TV_HD/index.m3
+
+http://195.181.169.152:8080/SERBIA/PINK_ACTION/index.m3u8
+
 #EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/zwbXAwK.png",========>>TIBO FILM<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?filma10
 #EXTINF:0 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/xuHTCEz.png",[$]BIG BROTHER VIP 1HD
