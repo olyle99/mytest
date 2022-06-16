@@ -1,20 +1,16 @@
 
-http://195.181.169.152:8080/CROATIA/HBO_HD/index.m3u
-http://195.181.169.152:8080/CROATIA/HBO_2_HD/index.m3u
-http://195.181.169.152:8080/CROATIA/HBO_3_HD/index.m3u8
-http://195.181.169.152:8080/CROATIA/CINESTAR_ACTION/index.m3u
-http://195.181.169.152:8080/CROATIA/CINESTAR_FANTASY/index.m3u
-http://195.181.169.152:8080/CROATIA/CINESTAR_PREMIERE_1/index.m3u
-http://195.181.169.152:8080/CROATIA/CINESTAR_PREMIERE_2/index.m3u
-http://195.181.169.152:8080/CROATIA/CINEMAX_1_HD/index.m3u
-http://195.181.169.152:8080/CROATIA/CINEMAX_2_HD/index.m3u
-http://195.181.169.152:8080/CROATIA/FOX_HD/index.m3u
-http://195.181.169.152:8080/CROATIA/FOX_LIFE_HD/index.m3u
-http://195.181.169.152:8080/CROATIA/FOX_CRIME_HD/index.m3u
-http://195.181.169.152:8080/CROATIA/FOX_MOVIES_HD/index.m3u
-http://195.181.169.152:8080/CROATIA/KINO_TV_HD/index.m3
-
-http://195.181.169.152:8080/SERBIA/PINK_ACTION/index.m3u8
+#EXTINF:-1 group-title="Sport2",ELEVEN SPORTS 1
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
+#EXTINF:-1 group-title="Sport2",ELEVEN SPORTS 2
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJLdC6sguiyX8N2QI-yX-d64/ts
+#EXTINF:-1 group-title="Sport2",ELEVEN SPORTS 3
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJCj-3rEl3NmItfMAMT_ShRE/ts
+#EXTINF:-1 group-title="Sport2",ELEVEN SPORTS 4
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOSZsWI3Dx4VfxyLQOwcoX0/ts
+#EXTINF:-1 group-title="Sport2",ELEVEN SPORTS 5
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJCK3CZq-25JorpVxvxLOm6M/ts
+#EXTINF:-1 group-title="Sport2",ELEVEN SPORTS 6
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJFGRezPP_E_YrLaVH7MB7KE/ts
 
 #EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/zwbXAwK.png",========>>TIBO FILM<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?filma10
