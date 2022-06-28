@@ -1,3 +1,1051 @@
+#EXTINF:-1 group-title="TEST  ⓶" ,Первый HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,ТНТ HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/13..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,ТНТ (+2)
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/14..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,ТНТ (+7)
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/16..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,ТНТ4
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/17..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,НТВ Сериал
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/172..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,НТВ Хит
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/173..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,РЕН ТВ HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/24..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Россия 1
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/7..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Россия 1 +2
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/8..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Россия 1 +4
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/9..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Россия 1 +6
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/10..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Россия-24
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/11..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,НТВ HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/19..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,НТВ (+2)
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/20..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,НТВ Стиль
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/21..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,НТВ Право
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/486..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Охотник и рыболов HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/382..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Диалоги о рыбалке
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/385..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Дикая охота HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/386..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Дикая рыбалка HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/387..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Дикий
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/394..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Арсенал HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/395..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Мужской
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/396..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Оружие
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/409..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,DTX
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/425..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Глазами туриста HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/376..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Большая Азия HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/378..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,365 дней ТВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/403..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Вопросы и ответы
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/406..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Домашние Животные
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/411..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,В мире животных HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/417..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,ЕГЭ ТВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/428..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Home 4K
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2403..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,CBS Reality
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2492..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,SKY HIGH NATURE 4K
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2565..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Z!Travel HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2593..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Nickelodeon HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/435..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Nickelodeon
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/436..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Nicktoons
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/437..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Nick Jr
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/438..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Disney
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/441..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Boomerang
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/442..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Cartoon Network
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/446..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,СТС kids HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/448..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Детский мир
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/451..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Советские мультфильмы
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/454..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV Kids
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/460..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,C-Cartoon
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/461..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Карусель
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/462..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Мульт HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/463..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Малыш
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/465..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,В гостях у сказки
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/466..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Капитан Фантастика HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/472..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,2x2
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/473..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Мама
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/475..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Радость моя
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/476..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,О!
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/477..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,FAN
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1096..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Anime
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1128..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Cartoon
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1129..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ МУЛЬТЗАЛ HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1219..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Малютка ТВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1225..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Tom & Jerry HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1231..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Comics
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1250..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,LIBERTY CUBE 4K
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1255..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Союз МУЛЬТZAL
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2322..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Nu pogody
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2331..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Bunny HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2332..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,LIBERTY MULTUKR 4K
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2337..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,LIBERTY MULT 4K
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2338..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,PROKOP TV CARTOONS HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2355..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Загородная Жизнь
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/389..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Загородный
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/390..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Усадьба
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/391..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Доктор
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/492..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Еда FHD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/497..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Food Network FHD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/499..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,ЖИВИ! HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/506..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,TV1000
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/110..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,TV1000 HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/111..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,TV1000 Action
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/112..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,TV1000 Action HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/113..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,TV1000 Русское кино
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/115..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,TV1000 Русское кино HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/116..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VIP Comedy HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/117..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VIP Megahit HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/119..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VIP Premiere HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/121..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VIP Serial HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/123..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Душевное HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/124..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Наш Кинопоказ HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/125..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Наше крутое HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/126..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Наше любимое HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/127..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Наше Мужское HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/128..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Хит HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/129..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Блокбастер HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/130..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Остросюжетное HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/131..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Страшное HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/132..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Киноужас HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/133..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Про Любовь HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/134..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Премиальное HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/135..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кинопремьера HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/136..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Камеди HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/137..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кинохит HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/138..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Киносемья HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/139..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Киносвидание HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/140..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кинокомедия HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/141..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Шокирующее
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/142..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Комедийное HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/143..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Amedia 1
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/152..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Amedia 2
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/153..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Amedia Hit
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/154..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Amedia Premium HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/155..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Amedia Premium
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/156..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Fox HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/158..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Epic Drama HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/159..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Sony Turbo
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/160..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Sony ТВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/162..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Sony Sci-Fi
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/163..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Paramount Channel HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/164..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Hollywood HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/166..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Fox Life HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/168..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Fox Russia
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/169..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кинопоказ HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/174..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Киносат
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/175..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кино ТВ HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/176..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,FilmBox ArtHouse
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/252..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Дорама HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/253..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Романтичное HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/257..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Родное кино
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/260..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Дом кино премиум HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/261..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Дом Кино
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/262..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Еврокино
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/263..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Русский Роман HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/264..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Русский Иллюзион HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/265..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Мосфильм HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/266..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Иллюзион +
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/267..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Мужское Кино HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/269..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Наше новое кино
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/270..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Trash TV
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/271..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Победа
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/273..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Русская Комедия
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/274..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Русский Бестселлер
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/275..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Русский Детектив
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/276..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Киномикс HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/277..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Киносерия HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/278..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Любимое Кино
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/279..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Мир Сериала
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/280..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Zee TV
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/282..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Индийское Кино
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/283..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Феникс+ Кино
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/284..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,ТВ3 HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/285..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,НСТ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/286..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Shot TV
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/287..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Ultra HD Cinema 4K
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/291..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Победа HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1068..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,КИНО ТВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1094..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Z! Comedy HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2306..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Z! Crime HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2307..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Z! Horror HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2308..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Z!Serial HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2309..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Z!Sitcom HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2310..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Amedia Hit HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2657..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Paramount Comedy HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2659..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Action HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/177..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Catastrophe HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/178..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Comedy HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/179..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Cinema HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/180..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU CINEMA+ HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/181..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Fantastic HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/182..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU STARS HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/183..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU FilMystic HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/184..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Reality HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/185..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU History HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/186..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Kinorating HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/187..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Marvel HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/188..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Premiere HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/189..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Romantic HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/190..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Russian HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/191..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU VHS HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/192..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU TruMotion HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/193..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Кинозал Premiere 1 HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/194..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Кинозал Premiere 2 HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/195..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Кинозал Premiere 3 HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/196..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU СВАТЫ HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/197..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Ruserial HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/198..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU СССР HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/199..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Cosmo HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/200..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Criminal HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/201..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Ultra 4K
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/202..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BCU Premiere Ultra 4K
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/203..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BackusTV
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/204..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BackusTV Страшное
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/205..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-ВОВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/206..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Comics
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/207..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Elite Comedys
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/208..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Fantastic
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/209..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-History
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/210..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Newfilm
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/211..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Premium
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/212..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Russian Комедия
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/213..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Видак
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/214..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Гай Ritchie And Tarantino
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/215..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Драмаtic
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/216..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Кинотеатр
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/217..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Кошмарное
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/218..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Страна СССР
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/219..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC Шпионское
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/221..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KBC-Light Сериал RU
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/222..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV Grand
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/223..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV VHS
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/224..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV Русские фильмы
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/225..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV Советские фильмы
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/226..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV New Кино
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/227..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV Трагичное
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/228..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV Забавное
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/229..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV BEST
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/230..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV Adrenaline
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/232..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV Adventure
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/233..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV OBLIVION
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/234..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO TV Thriller
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/235..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO 4K
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/236..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,YOSSO C-INQUEST
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/237..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,C-Marvel
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/239..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Magic Action HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/240..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Magic Comedy HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/241..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Magic Family HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/242..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Magic Galaxy
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/243..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Magic Horror HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/244..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Magic Karate HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/245..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Magic Love HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/246..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Magic Thriller HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/247..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Зал 1
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1113..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Зал 2
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1114..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Зал 3
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1115..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Зал 4
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1116..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Зал 5
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1117..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Зал 6
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1118..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Зал 7
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1119..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Зал 8
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1120..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Зал 9
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1121..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Зал 10
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1122..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Зал 12
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1124..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Adventure
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1127..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Comedy
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1130..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Family
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1131..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Fantasy
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1132..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Melodrama
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1133..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Mystic
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1134..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Ужасы
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1135..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF VHS MIX
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1136..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Ужасы VHS
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1137..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Премьера
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1138..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Premiere
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1139..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Классика
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1140..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Classic
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1141..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Комедия
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1142..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Катастрофы
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1143..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Marvel
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1144..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Военные
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1145..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Наша победа
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1146..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Мосфильм
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1147..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Боевик
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1150..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,TOP USSR HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1156..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Фантастика HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1218..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Ужасное ТВ HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1221..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Приключение HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1222..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Бойцовское кино HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1223..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Ералаш ТВ HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1224..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Kino2 HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1226..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Kino1 HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1227..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Kino3 HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1228..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Kino4 HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1229..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Боевики HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1230..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Vitek tv
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1232..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Кинокомфорт HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1233..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Катастрофа HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1235..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Сваты HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1236..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Series
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1243..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Сериал
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1245..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Thriller
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1247..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF История
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1249..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Клиника
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1252..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,LIBERTY INDI 4K
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1254..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,LIBERTY 35 SEMEYNYY 4k
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1256..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KLI Thriller HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1258..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KLI CCP HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1259..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,KLI Retro HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1261..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кинозал 1
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1264..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кинозал 3
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1266..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кинозал 4
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1267..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кинозал 5
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1268..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кинозал 6
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1269..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кинозал 8
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1271..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кинозал 9
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1272..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Кинозал 10
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1273..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,PROKOP TV CRIMINAL HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1276..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,PROKOP TV HISTORY HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1277..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,PROKOP TV FANTAZY HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1279..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,PROKOP TV HORROR HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1280..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BOX M.Serial HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2301..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,BOX Serial HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2303..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",UZ KLIP NEW
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1220..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Муз ТВ +0
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1282..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",ЖАРА
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1287..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",BRIDGE TV HITS
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1290..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Bridge TV Фрэш
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1292..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Europa Plus TV
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1294..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",МУЗ-ТВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1295..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",MTV
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1296..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Музыка
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1298..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Mezzo Live HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1299..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",VH1 European
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1300..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Mezzo
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1302..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",о2тв HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1304..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Vostok TV
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1306..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",MTV 90s
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1307..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",MCM Top Russia
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1308..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Ля-минор ТВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1312..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Курай HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1314..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Курай TV
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1315..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",МузСоюз
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1317..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Жар Птица
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1318..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",AIVA TV
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1319..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Муз ТВ +4
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1320..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Жар Птица
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1328..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Музыка
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1329..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",MTV Hits
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1335..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",MCM Top Russia
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1338..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Европа Плюс ТВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1348..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Ritsa TV
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1352..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Bridge TV Шлягер
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1353..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Viva HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1354..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",RETRO DANCE 90'S
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1355..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Mix m tv hd
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1358..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Первый музыкальный 4k
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1369..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Первый музыкальный FULL HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1370..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Первый музыкальный
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1371..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Первый музыкальный FHD (Бел)
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1372..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Первый музыкальный (Бел)
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1373..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Music Gold
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1376..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Страна FM HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1377..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Русская попса 80х-90х
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1380..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Russian Dance Hits of 90s
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1381..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Europa Plus TV HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1382..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Новое радио FHD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1383..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Russian MusicBox FHD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1384..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",ТНТ Music FHD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1387..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Илья ТВ Алла Пугачёва HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1389..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Илья ТВ Наш Сериал
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1390..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",SKY HIGH CONCERT HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1391..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",SKY HIGH DANCE HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1392..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",SKY HIGH CLASSIC HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1393..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Stingray Hot Country HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1394..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Stingray Pop Adult HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1395..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Stingray Hit List HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1396..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Stingray Hip Hop/R&B HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1398..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Stingray Soul Storm STORM HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1399..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Stingray Greatest Hits HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1400..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Stingray Exitos Del Momento HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1401..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Stingray Classic Rock HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1403..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Stingray Flashback 70S HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1404..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Stingray Alternative HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1405..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Stingray Remember The 80S HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1406..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",MTV Biggest Pop HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1409..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",V2BEAT HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1411..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Zerouno TV
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1412..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",минимакс-relax HD 30 FPS
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1413..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Муз ТВ +3
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1416..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",VF Музыка
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1417..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",VF Шансон
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1421..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",VF Музсоюз
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1422..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",VF Metal
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1424..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",VF Хит-парад
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1426..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",VF Русский рок
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1427..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",LoveIsRadio.by
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1430..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Радио Шансон тв HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1432..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Восток ТВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1434..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",LIBERTY MIKSMUZYKA HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1435..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Kiss Kiss Tv HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1436..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Kiss Kiss Napoli HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1438..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Zero Uno HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1439..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",KLI HIT 90
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1441..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Радио ХИТ ОРС HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1444..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Мелодии и ритмы зарубежной эстрады
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1447..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Backus tv music HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1449..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Музыка 1 HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1452..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Музыка 2 HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1453..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Музыка 1 International HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1454..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Музыка 2 International
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1455..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Музыка Кино HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1456..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Музыка Кино International
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1457..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Балет Опера HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1458..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",FRESH Pop Hits HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1459..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",FRESH Russian Pop HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1460..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",FRESH Sad Music HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1461..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",FRESH Dance HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1462..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",FRESH Rock Hits HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1463..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",FRESH Rock Covers HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1464..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",FRESH Concerts HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1466..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",FRESH Retro HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1467..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",FRESH Lyrics HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1468..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",UZ 4k Klip UHD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1469..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Известия HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/55..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Russia Today Doc HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/514..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Euronews
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/515..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",RT Doc
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/517..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Мир 24
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/518..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Russia Today
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/519..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",Центральное телевидение
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2671..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",100 % NEWS
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2673..m3u8
+#EXTINF:-1 group-title="TEST  ⓶",360 НОВОСТИ HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2675..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,СТС
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/27..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,СТС Love
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/31..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Пятница HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/42..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Суббота
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/43..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Luxury
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/482..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Fashion TV HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/490..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Анекдот ТВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2617..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Однажды в России HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2646..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ 6 Кадров HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2647..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,UZ Уральские Пельмени HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2648..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Че! (+4)
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2655..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Gags Network HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2661..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Перец International
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2665..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,VF Юмор 18+
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2667..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Quadro 4К
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2669..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Время
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/22..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Москва 24
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/23..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Пятый Канал
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/32..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Дождь
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/34..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,РБК
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/35..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,ТВЦ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/36..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,ОТР
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/37..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,RTVi
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/39..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Мир
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/45..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Телеканал Звезда
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/47..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,КРЫМ 24
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/50..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,ВМЕСТЕ-РФ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/52..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,МАТЧ! Страна
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/299..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Авто Плюс
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/329..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Авто 24
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/338..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,МАТЧ! СТРАНА
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1744..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Матч +2
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1745..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Матч +4
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1746..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Матч! Планета
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1757..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Матч! Футбол 1
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1758..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Матч! Футбол 3
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1760..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Матч! Арена
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1761..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Матч! Игра
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1762..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Матч! Футбол 2
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1763..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,МАТЧ ПРЕМЬЕР
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1764..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Матч ТВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1765..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Матч! Боец
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1768..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Бокс ТВ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1771..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,СТАРТ
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1773..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Телеканал Футбол
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1774..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Хоккейный HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1907..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Сетанта Спорт + HD UA
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1908..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Спортивный HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1909..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Футбольный HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1910..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Живи Активно HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1959..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Спорт 1 HD UA
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1969..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Матч! Страна HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2105..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Матч! Боец HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2106..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,БОКС ТВ ПЛЮС HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2109..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Удар HD
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2110..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Футбол 1
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2116..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Футбол 2
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2118..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,Футбол 3
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2120..m3u8
+#EXTINF:-1 group-title="Коломна-Связь ТВ",Матч!
+http://78.25.155.47:1309/channel/Match.ts
+#EXTINF:-1 group-title="Коломна-Связь ТВ",Матч! HD
+http://78.25.155.47:1309/channel/Match_HD.ts
+#EXTINF:-1 group-title="Коломна-Связь ТВ",Матч! Боец
+http://78.25.155.47:1309/channel/Boec.ts
+#EXTINF:-1 group-title="Коломна-Связь ТВ",Матч! Игра
+http://78.25.155.47:1309/channel/Sport_2.ts
+#EXTINF:-1 group-title="Коломна-Связь ТВ",Матч! Страна
+http://78.25.155.47:1309/channel/Sport_plus.ts
+
+#EXTINF:-1 group-title="ONEPACKET" ,Матч! Арена
+http://91.219.23.234:8000/play/301/index.m3u8
+#EXTINF:-1 group-title="ONEPACKET" ,Матч! Боец
+http://91.219.23.234:8000/play/86/index.m3u8
+#EXTINF:-1 group-title="ONEPACKET" ,Матч! Игра
+http://91.219.23.234:8000/play/341/index.m3u8
+#EXTINF:-1 group-title="ONEPACKET" ,Матч! Страна
+http://91.219.23.234:8000/play/340/index.m3u8
+#EXTINF:-1 group-title="ONEPACKET" ,Матч! ТВ
+http://91.219.23.234:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="ONEPACKET" ,Матч! Футбол 1
+http://91.219.23.234:8000/play/582/index.m3u8
+#EXTINF:-1 group-title="ONEPACKET" ,Матч! Футбол 1 HD
+http://91.219.23.234:8000/play/279/index.m3u8
+#EXTINF:-1 group-title="ONEPACKET" ,Матч! Футбол 2
+http://91.219.23.234:8000/play/583/index.m3u8
+#EXTINF:-1 group-title="ONEPACKET" ,Матч! Футбол 2 HD
+http://91.219.23.234:8000/play/280/index.m3u8
+#EXTINF:-1 group-title="ONEPACKET" ,Матч! Футбол 3
+http://91.219.23.234:8000/play/584/index.m3u8
+#EXTINF:-1 group-title="ONEPACKET" ,Матч! Футбол 3 HD
+http://91.219.23.234:8000/play/281/index.m3u8
+#EXTINF:-1 group-title="ONEPACKET" ,КХЛ
+http://91.219.23.234:8000/play/581/index.m3u8
+#EXTINF:-1 group-title="ONEPACKET" ,KHL Prime HD
+http://91.219.23.234:8000/play/201/index.m3u8
+
+#EXTINF:-1 group-title="TEO LT" ,Setanta Sports 1 HD
+http://85.206.57.253:8981/l63/mono.m3u8
+#EXTINF:-1 group-title="TEO LT" ,Eurosport 1 HD
+http://85.206.57.253:8981/a40/mono.m3u8
+#EXTINF:-1 group-title="TEO LT" ,Eurosport 2 HD
+http://85.206.57.253:8981/a41/mono.m3u8
+#EXTINF:-1 group-title="TEO LT" tvg-logo="http://epg.it999.ru/img/3792.png" ,Fight Box
+http://85.206.57.253:8981/a69/mono.m3u8
+#EXTINF:-1 group-title="TEO LT" ,DTX HD
+http://85.206.57.253:8981/a78/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://persik.tv/images/channels/logos/10277.png",Viasat Sport HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5467
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2051.png" ,Матч ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5463
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2250.png" ,МАТЧ ПРЕМЬЕР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5462
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2044.png" ,Матч! Футбол 1 HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5456
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2005.png" ,Матч! Футбол 2 HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5461
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/1042.png" ,Матч! Футбол 3 HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5458
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2782.png" ,Телеканал Футбол
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5472
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2189.png" ,Футбол 1 HD
+http://cdnua06.hls.tv/476/hls/ska3rf67h5znoquvc4ymptg2el018jd9/4064/stream.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2190.png" ,Футбол 2 HD
+http://cdnua06.hls.tv/476/hls/ska3rf67h5znoquvc4ymptg2el018jd9/4065/stream.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/3317.png" ,Спорт-1
+http://89.187.191.207:89/sport1/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/3318.png" ,Спорт-2
+http://89.187.191.207:89/sport2/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2577.png" ,Qazsport KZ
+https://th06.cdnvar.top/KazSportKZ/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2189.png" ,Футбол 1
+http://srv05.varcdn.top/ua1/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2190.png" ,Футбол 2
+http://srv05.varcdn.top/ua2/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Сибирские Сети" tvg-logo="http://epg.it999.ru/img/2042.png",МАТЧ! СТРАНА
+http://128.0.27.41:8080/239.211.211.63/mpegts
+#EXTINF:-1 group-title="Сибирские Сети" ,Матч! Премьер HD
+http://128.0.27.41:8080/239.211.200.170/mpegts
+#EXTINF:-1 group-title="Сибирские Сети" ,Матч! Футбол 1 HD
+http://128.0.27.41:8080/239.211.200.171/mpegts
+#EXTINF:-1 group-title="Сибирские Сети" ,Матч! Футбол 2 HD
+http://128.0.27.41:8080/239.211.200.172/mpegts
+#EXTINF:-1 group-title="Сибирские Сети" ,Матч! Футбол 3 HD
+http://128.0.27.41:8080/239.211.200.173/mpegts
+#EXTINF:-1 group-title="Сибирские Сети" ,Матч! HD
+http://128.0.27.41:8080/239.211.200.22/mpegts
+#EXTINF:-1 group-title="Сибирские Сети" ,Матч! Боец
+http://128.0.27.41:8080/239.211.211.44/mpegts
+#EXTINF:-1 group-title="Сибирские Сети" ,MMA-TV HD
+http://128.0.27.41:8080/239.211.200.190/mpegts
+#EXTINF:-1 group-title="Сибирские Сети" ,Матч! Игра
+http://128.0.27.41:8080/239.211.200.11/mpegts
+#EXTINF:-1 group-title="Сибирские Сети" ,Матч! Арена
+http://128.0.27.41:8080/239.211.211.35/mpegts
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="IPTV",MNC Sports 1 HD
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #EXTINF:-1 group-title="IPTV",MNC Sports 2 HD
