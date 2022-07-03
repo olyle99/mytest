@@ -1,7 +1,7 @@
-#EXTINF:-1 group-title="TEST  ⓶" ,Первый HD
-http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/2..m3u8
-#EXTINF:-1 group-title="TEST  ⓶" ,ТНТ HD
-http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/13..m3u8
+#EXTINF:-1 group-title="TEST  ⓶" ,rtsh2
+https://bit.ly/3yAkjvw
+#EXTINF:-1 group-title="TEST  ⓶" ,¶kill
+https://bit.ly/3P3t4Dx
 #EXTINF:-1 group-title="TEST  ⓶" ,ТНТ (+2)
 http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/14..m3u8
 #EXTINF:-1 group-title="TEST  ⓶" ,ТНТ (+7)
@@ -2315,3 +2315,4 @@ http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_AXN_ott/__op/dash-default/
 http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_AXNSPIN_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
 #EXTINF:0, TV 1000 SLO
 http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_TV1000_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+2
