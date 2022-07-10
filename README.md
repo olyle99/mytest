@@ -1,3 +1,22 @@
+Star plus
+https://ub1doy938d.gjirafa.net/live/6rgklscjRSjkIb3cFcFiyCmOrcQ7AWeB/zt0y0y1080/index.m3u8|Referer=
+
+Ktv
+https://ub1doy938d.gjirafa.net/live/motZvUmyIk9PCPXEf5gwAB1GmIlQTn6b/zxzk111080/index.m3u8|Referer=
+
+Zico
+https://ub1doy938d.gjirafa.net/live/motZvUmyIk9PCPXEf5gwAB1GmIlQTn6b/y1k0kk1080/index.m3u8|Referer=
+
+T7
+https://ub1doy938d.gjirafa.net/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/yzg0yt1080/index.m3u8|Referer=
+
+Kanal10
+https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/yky0y11080/index.m3u8|Referer=
+
+Euronews al
+https://ub1doy938d.gjirafa.net/live/6rgklscjRSjkIb3cFcFiyCmOrcQ7AWeB/y0xx1q1080/index.m3u8|Referer=
+
+
 #EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/YO9jUAP.png",========>>GJENERALE<<========
 http://cleverside.us:8484/Pop½/Pop½/10
 #EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL HD
